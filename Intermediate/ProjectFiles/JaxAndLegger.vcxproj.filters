@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\JaxAndLegger.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A270F8E2-71B4-4EFF-9D07-423121D32D9C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JaxAndLegger.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\JaxAndLeggerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C86D6B0E-B4BF-48A2-A7F9-021CB61D1F6E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultCrypto.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\JaxAndLegger">
+      <UniqueIdentifier>{F0DE8152-2455-45C4-9B6F-57A0A2E908FF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\JaxAndLegger\JaxAndLegger.Build.cs">
+      <Filter>Source\JaxAndLegger</Filter>
+    </None>
+    <ClInclude Include="..\..\Source\JaxAndLegger\JaxAndLegger.h">
+      <Filter>Source\JaxAndLegger</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JaxAndLegger\JaxAndLegger.cpp">
+      <Filter>Source\JaxAndLegger</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\JaxAndLegger\test.h">
+      <Filter>Source\JaxAndLegger</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\JaxAndLegger\test.cpp">
+      <Filter>Source\JaxAndLegger</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

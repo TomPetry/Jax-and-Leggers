@@ -1,0 +1,824 @@
+﻿Log file open, 01/27/20 08:54:00
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JaxAndLegger
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.127119
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1909) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=LastXander -epicuserid=fd28c16ff2b246059b67a59f3fa22300 -epiclocale=en-US
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Engine.ini]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Engine.ini]
+[2020.01.27-07.54.00:768][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Engine.ini]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Engine.ini]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.01.27-07.54.00:768][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Engine.ini]
+[2020.01.27-07.54.00:768][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Engine.ini]
+[2020.01.27-07.54.00:776][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.54.00:776][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.27-07.54.00:776][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.27-07.54.00:776][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.54.00:776][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.27-07.54.00:776][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.54.00:776][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.27-07.54.00:776][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.27-07.54.00:777][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.27-07.54.00:778][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.27-07.54.00:778][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.27-07.54.00:778][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.01.27-07.54.00:784][  0]LogHAL: Display: Platform has ~ 8 GB [8469159936 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.01.27-07.54.00:784][  0]LogInit: Going up to parent DeviceProfile []
+[2020.01.27-07.54.00:784][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.54.00:784][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.01.27-07.54.00:784][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.01.27-07.54.00:784][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.54.00:784][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.01.27-07.54.00:784][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.54.00:784][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.01.27-07.54.00:784][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.01.27-07.54.00:784][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.01.27-07.54.00:784][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.01.27-07.54.00:784][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.01.27-07.54.00:784][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.01.27-07.54.00:784][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.01.27-07.54.00:784][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.01.27-07.54.00:784][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.01.27-07.54.00:784][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.01.27-07.54.00:785][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.54.00:785][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.01.27-07.54.00:786][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.01.27-07.54.00:786][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.01.27-07.54.00:786][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.01.27-07.54.00:786][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.01.27-07.54.00:786][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.01.27-07.54.00:786][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.01.27-07.54.00:786][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.01.27-07.54.00:786][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.01.27-07.54.00:786][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.01.27-07.54.00:786][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.01.27-07.54.00:786][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.01.27-07.54.00:786][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.01.27-07.54.00:786][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Scalability.ini]
+[2020.01.27-07.54.00:786][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.01.27-07.54.00:786][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.01.27-07.54.00:786][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.01.27-07.54.00:787][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.01.27-07.54.00:787][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.01.27-07.54.00:787][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Github/Jnckr-Lthr/Saved/Config/Windows/Engine.ini]
+[2020.01.27-07.54.00:787][  0]LogInit: Computer: FABIONOTEBOOK
+[2020.01.27-07.54.00:787][  0]LogInit: User: morfa
+[2020.01.27-07.54.00:787][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.01.27-07.54.00:787][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.01.27-07.54.00:787][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2020.01.27-07.54.00:787][  0]LogMemory: Platform Memory Stats for Windows
+[2020.01.27-07.54.00:787][  0]LogMemory: Process Physical Memory: 102.36 MB used, 102.36 MB peak
+[2020.01.27-07.54.00:787][  0]LogMemory: Process Virtual Memory: 106.41 MB used, 106.41 MB peak
+[2020.01.27-07.54.00:787][  0]LogMemory: Physical Memory: 6742.07 MB used,  1334.75 MB free, 8076.82 MB total
+[2020.01.27-07.54.00:787][  0]LogMemory: Virtual Memory: 4668.37 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2020.01.27-07.54.00:792][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.01.27-07.54.00:834][  0]LogInit: Using OS detected language (en-US).
+[2020.01.27-07.54.00:834][  0]LogInit: Using OS detected locale (en-US).
+[2020.01.27-07.54.00:836][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.01.27-07.54.01:364][  0]LogInit: Setting process to per monitor DPI aware
+[2020.01.27-07.54.01:416][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.01.27-07.54.01:416][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.01.27-07.54.01:961][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.27-07.54.01:961][  0]LogD3D11RHI: D3D11 adapters:
+[2020.01.27-07.54.02:100][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.01.27-07.54.02:100][  0]LogD3D11RHI:       1979/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.01.27-07.54.02:112][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.01.27-07.54.02:112][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.01.27-07.54.02:122][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.01.27-07.54.02:122][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.01.27-07.54.02:122][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.01.27-07.54.02:182][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.01.27-07.54.02:182][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.01.27-07.54.02:182][  0]LogWindows: EnumDisplayDevices:
+[2020.01.27-07.54.02:183][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2020.01.27-07.54.02:183][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2020.01.27-07.54.02:184][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.01.27-07.54.02:184][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.01.27-07.54.02:184][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.01.27-07.54.02:184][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.01.27-07.54.02:184][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.01.27-07.54.02:184][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2020.01.27-07.54.02:258][  0]LogD3D11RHI: Async texture creation enabled
+[2020.01.27-07.54.02:273][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.01.27-07.54.02:998][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.01.27-07.54.03:013][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.01.27-07.54.03:028][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.01.27-07.54.03:043][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.01.27-07.54.03:056][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.01.27-07.54.03:073][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.01.27-07.54.03:084][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.01.27-07.54.03:098][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.01.27-07.54.03:106][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.01.27-07.54.03:160][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.01.27-07.54.03:163][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.01.27-07.54.03:190][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.01.27-07.54.03:190][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.01.27-07.54.03:210][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.01.27-07.54.03:211][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.01.27-07.54.03:222][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.01.27-07.54.03:233][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.01.27-07.54.03:243][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.01.27-07.54.03:256][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.01.27-07.54.03:296][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.01.27-07.54.03:296][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.01.27-07.54.03:296][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.01.27-07.54.03:315][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.01.27-07.54.03:396][  0]LogShaderCompilers: Guid format shader working directory is 25 characters bigger than the processId version (F:/Github/Jnckr-Lthr/Intermediate/Shaders/WorkingDirectory/19756/).
+[2020.01.27-07.54.03:396][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/morfa/AppData/Local/Temp/UnrealShaderWorkingDir/0CAC7C374E50A64239135CA7D1051F09/'.
+[2020.01.27-07.54.03:399][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.01.27-07.54.03:399][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.01.27-07.54.03:399][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.01.27-07.54.04:510][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.01.27-07.54.04:625][  0]LogDerivedDataCache: Loaded boot cache 0.11s 73MB C:/Users/morfa/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.27-07.54.04:625][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/morfa/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.01.27-07.54.04:625][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Github/Jnckr-Lthr/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.01.27-07.54.04:625][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.01.27-07.54.04:625][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Github/Jnckr-Lthr/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.27-07.54.04:625][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.01.27-07.54.04:648][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.01.27-07.54.04:648][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.01.27-07.54.04:648][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.01.27-07.54.04:650][  0]LogDerivedDataCache: Using Local data cache path C:/Users/morfa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.01.27-07.54.04:651][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.01.27-07.54.04:651][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.01.27-07.54.04:689][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.01.27-07.54.04:693][  0]LogSlate: Using FreeType 2.6.0
+[2020.01.27-07.54.04:697][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.01.27-07.54.04:880][  0]LogAssetRegistry: FAssetRegistry took 0.0055 seconds to start up
+[2020.01.27-07.54.05:370][  0]LogInit: Selected Device Profile: [Windows]
+[2020.01.27-07.54.05:615][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.01.27-07.54.05:615][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.01.27-07.54.05:615][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.01.27-07.54.05:615][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.01.27-07.54.05:615][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.01.27-07.54.05:638][  0]LogNetVersion: JaxAndLegger 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2648958118)
+[2020.01.27-07.54.06:488][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.162491 seconds
+[2020.01.27-07.54.06:499][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.01.27-07.54.06:499][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.01.27-07.54.06:499][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.01.27-07.54.07:986][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.01.27-07.54.07:990][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.01.27-07.54.08:097][  0]SourceControl: Source control is disabled
+[2020.01.27-07.54.08:097][  0]SourceControl: Source control is disabled
+[2020.01.27-07.54.08:098][  0]SourceControl: Source control is disabled
+[2020.01.27-07.54.08:100][  0]SourceControl: Source control is disabled
+[2020.01.27-07.54.08:250][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.01.27-07.54.08:532][  0]LogOcInput: OculusInput pre-init called
+[2020.01.27-07.54.08:542][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.01.27-07.54.08:542][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.01.27-07.54.08:633][  0]LogEngine: Initializing Engine...
+[2020.01.27-07.54.08:634][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.01.27-07.54.08:635][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.01.27-07.54.08:964][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.01.27-07.54.08:982][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.01.27-07.54.09:041][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.01.27-07.54.09:128][  0]LogInit: FAudioDevice initialized.
+[2020.01.27-07.54.09:128][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.01.27-07.54.09:267][  0]LogDerivedDataCache: Saved boot cache 0.14s 73MB C:/Users/morfa/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.01.27-07.54.09:276][  0]LogInit: Texture streaming: Enabled
+[2020.01.27-07.54.09:296][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.01.27-07.54.09:296][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.01.27-07.54.09:298][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.01.27-07.54.09:417][  0]LogInit: Transaction tracking system initialized
+[2020.01.27-07.54.09:447][  0]BlueprintLog: New page: Editor Load
+[2020.01.27-07.54.09:536][  0]LocalizationService: Localization service is disabled
+[2020.01.27-07.54.09:881][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.01.27-07.54.09:881][  0]LogCook: Display: Mobile HDR setting 1
+[2020.01.27-07.54.10:136][  0]LogFileCache: Scanning file cache for directory 'F:/Github/Jnckr-Lthr/Content/' took 0.02s
+[2020.01.27-07.54.10:136][  0]SourceControl: Source control is disabled
+[2020.01.27-07.54.10:136][  0]Cmd: MAP LOAD FILE="F:/Github/Jnckr-Lthr/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.27-07.54.10:143][  0]LightingResults: New page: Lighting Build
+[2020.01.27-07.54.10:146][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-07.54.10:147][  0]MapCheck: New page: Map Check
+[2020.01.27-07.54.10:147][  0]LightingResults: New page: Lighting Build
+[2020.01.27-07.54.10:183][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2020.01.27-07.54.10:447][  0]LogLinker: Warning: While loading 'F:/Github/Jnckr-Lthr/Content/JandL_Models/BuckDock/duckblock_sm__1_.uasset' failed to load '/Game/JandL_Models/lambert1': Can't find file.
+[2020.01.27-07.54.10:448][  0]LogLinker: Warning: While loading 'F:/Github/Jnckr-Lthr/Content/JandL_Models/BuckDock/duckblock_sm__1_.uasset' failed to load '/Game/JandL_Models/lambert1': Can't find file.
+[2020.01.27-07.54.10:448][  0]LogLinker: Warning: While loading 'F:/Github/Jnckr-Lthr/Content/JandL_Models/BuckDock/duckblock_sm__1_.uasset' failed to load '/Game/JandL_Models/lambert1': Can't find file.
+[2020.01.27-07.54.10:448][  0]LogLinker: Warning: While loading 'F:/Github/Jnckr-Lthr/Content/JandL_Models/BuckDock/duckblock_sm__1_.uasset' failed to load '/Game/JandL_Models/lambert1': Can't find file.
+[2020.01.27-07.54.10:556][  0]LogLinker: Warning: While loading 'F:/Github/Jnckr-Lthr/Content/JandL_Models/BuckDock/duckblock_sm__1_.uasset' failed to load '/Game/JandL_Models/lambert1': Can't find file.
+[2020.01.27-07.54.10:556][  0]LoadErrors: Failed to load /Game/JandL_Models/lambert1.lambert1 Referenced by duckblock_sm__1_
+[2020.01.27-07.54.10:556][  0]LogLinker: Warning: While loading 'F:/Github/Jnckr-Lthr/Content/JandL_Models/BuckDock/duckblock_sm__1_.uasset' failed to load '/Game/JandL_Models/lambert1': Can't find file.
+[2020.01.27-07.54.10:556][  0]LoadErrors: Failed to load /Game/JandL_Models/lambert1.lambert1 Referenced by duckblock_sm__1_
+[2020.01.27-07.54.10:557][  0]LogLinker: Warning: While loading 'F:/Github/Jnckr-Lthr/Content/JandL_Models/BuckDock/duckblock_sm__1_.uasset' failed to load '/Game/JandL_Models/lambert1': Can't find file.
+[2020.01.27-07.54.10:557][  0]LoadErrors: Failed to load /Game/JandL_Models/lambert1.lambert1 Referenced by duckblock_sm__1_
+[2020.01.27-07.54.10:557][  0]LogLinker: Warning: While loading 'F:/Github/Jnckr-Lthr/Content/JandL_Models/BuckDock/duckblock_sm__1_.uasset' failed to load '/Game/JandL_Models/lambert1': Can't find file.
+[2020.01.27-07.54.10:557][  0]LoadErrors: Failed to load /Game/JandL_Models/lambert1.lambert1 Referenced by duckblock_sm__1_
+[2020.01.27-07.54.10:765][  0]LogAIModule: Creating AISystem for world MainMenu
+[2020.01.27-07.54.10:778][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.27-07.54.10:812][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.01.27-07.54.10:812][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.27-07.54.10:812][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.213ms to complete.
+[2020.01.27-07.54.10:812][  0]LogFileHelpers: Loading map 'MainMenu' took 0.676
+[2020.01.27-07.54.11:040][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-07.54.11:050][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-07.54.11:060][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-07.54.11:069][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.01.27-07.54.11:267][  0]LogSlate: Took 0.002235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.01.27-07.54.11:270][  0]LogSlate: Took 0.000466 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.01.27-07.54.11:402][  0]LogRenderer: Reallocating scene render targets to support 952x640 Format 10 NumSamples 1 (Frame:1).
+[2020.01.27-07.54.11:569][  0]LogLoad: (Engine Initialization) Total time: 14.16 seconds
+[2020.01.27-07.54.11:570][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.01.27-07.54.11:647][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.27-07.54.11:665][  1]LogFileCache: Retrieving MD5 hashes for directory 'F:/Github/Jnckr-Lthr/Content/' took 0.07s
+[2020.01.27-07.54.12:000][  6]LogAssetRegistry: Asset discovery search completed in 7.1216 seconds
+[2020.01.27-07.54.12:016][  6]LogCollectionManager: Loaded 0 collections in 0.002649 seconds
+[2020.01.27-07.54.12:019][  6]LogFileCache: Scanning file cache for directory 'F:/Github/Jnckr-Lthr/Saved/Collections/' took 0.00s
+[2020.01.27-07.54.12:019][  6]LogFileCache: Scanning file cache for directory 'F:/Github/Jnckr-Lthr/Content/Developers/morfa/Collections/' took 0.00s
+[2020.01.27-07.54.12:019][  6]LogFileCache: Scanning file cache for directory 'F:/Github/Jnckr-Lthr/Content/Collections/' took 0.00s
+[2020.01.27-07.54.12:019][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000007 seconds (found 0 objects)
+[2020.01.27-07.54.12:019][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000374 seconds (updated 0 objects)
+[2020.01.27-07.54.40:778][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.27-07.54.56:212][156]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.01.27-07.54.56:224][156]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2864 classes and 682 folders.
+[2020.01.27-07.54.56:240][156]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.27-07.54.56:553][156]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.01.27-07.54.56:566][156]LogSlate: Took 0.002037 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.01.27-07.54.56:583][156]LogSlate: Took 0.002384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.27-07.55.31:861][870]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.27-07.55.31:878][870]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/InGame/EmotesWheel.EmotesWheel
+[2020.01.27-07.55.32:327][870]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.01.27-07.55.34:063][870]LogSlate: Took 0.002200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.01.27-07.55.56:957][484]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.27-07.57.22:478][370]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/emotesWheel.png)
+[2020.01.27-07.57.22:494][370]LogTexture: Display: Building textures: emotesWheel (BGRA8, 702X703)
+[2020.01.27-07.57.26:048][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/emotesWheel" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/emotesWheel.uasset" SILENT=true
+[2020.01.27-07.57.26:103][468]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/emotesWheel429677F149C280F227059CBDB8FDA13D.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/emotesWheel.uasset'
+[2020.01.27-07.58.28:280][380]BlueprintLog: New page: Compile EmotesWheel
+[2020.01.27-07.58.28:449][380]LogUObjectHash: Compacting FUObjectHashTables data took   8.33ms
+[2020.01.27-07.58.29:010][394]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame/EmotesWheel" FILE="F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset" SILENT=true
+[2020.01.27-07.58.29:310][394]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmotesWheelE3906A3F42D5519D474F94A11149D7C9.tmp' to 'F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset'
+[2020.01.27-07.58.36:517][629]AssetReimport: New page: Outstanding source content changes 9:58:36 AM
+[2020.01.27-07.58.36:554][630]LogEditorFactories: Performing atomic reimport of [F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/emotesWheel.png]
+[2020.01.27-07.58.36:555][630]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/emotesWheel.png)
+[2020.01.27-07.58.36:604][630]LogEditorFactories: -- imported successfully
+[2020.01.27-07.58.36:700][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/emotesWheel" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/emotesWheel.uasset" SILENT=true
+[2020.01.27-07.58.36:751][631]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/emotesWheel22E79AC2467A51FB9E682CAE306B53C7.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/emotesWheel.uasset'
+[2020.01.27-07.58.39:801][728]AssetReimport: Reimported asset emotesWheel from F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/emotesWheel.png.
+[2020.01.27-07.58.44:596][877]LogSlate: Took 0.001946 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.01.27-07.59.15:144][170]LogAIModule: Creating AISystem for world Prop_Test_2
+[2020.01.27-07.59.15:188][170]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Prop_Test_2.Prop_Test_2
+[2020.01.27-07.59.15:255][170]LogUObjectHash: Compacting FUObjectHashTables data took   7.62ms
+[2020.01.27-07.59.15:259][170]Cmd: MAP LOAD FILE="F:/Github/Jnckr-Lthr/Content/Maps/Prop_Test_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.01.27-07.59.15:259][170]LightingResults: New page: Lighting Build
+[2020.01.27-07.59.15:260][170]LoadErrors: New page: Loading map: Prop_Test_2.umap
+[2020.01.27-07.59.15:261][170]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-07.59.15:262][170]MapCheck: New page: Map Check
+[2020.01.27-07.59.15:262][170]LightingResults: New page: Lighting Build
+[2020.01.27-07.59.15:315][170]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.01.27-07.59.15:520][170]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.01.27-07.59.15:578][170]LogUObjectHash: Compacting FUObjectHashTables data took   6.54ms
+[2020.01.27-07.59.15:636][170]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.01.27-07.59.15:636][170]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.203ms to complete.
+[2020.01.27-07.59.15:636][170]LogFileHelpers: Loading map 'Prop_Test_2' took 0.382
+[2020.01.27-07.59.16:317][193]LogTemp: Repeating last play command: Standalone Game
+[2020.01.27-07.59.16:406][193]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2020.01.27-08.00.04:559][893]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Textures/EmoteWheel/emotesWheel.emotesWheel
+[2020.01.27-08.00.04:594][893]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.01.27-08.00.21:681][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame/EmotesWheel" FILE="F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset" SILENT=true
+[2020.01.27-08.00.21:964][409]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmotesWheel1257556F483945C9108DB2B56CD0E512.tmp' to 'F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset'
+[2020.01.27-08.00.22:168][415]BlueprintLog: New page: Compile EmotesWheel
+[2020.01.27-08.00.22:328][415]LogUObjectHash: Compacting FUObjectHashTables data took   7.75ms
+[2020.01.27-08.00.22:742][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame/EmotesWheel" FILE="F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset" SILENT=true
+[2020.01.27-08.00.23:006][424]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmotesWheel693DDC86459C697012F846BDDF1F81C9.tmp' to 'F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset'
+[2020.01.27-08.00.23:470][438]LogTemp: Repeating last play command: Standalone Game
+[2020.01.27-08.00.23:584][438]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.01.27-08.02.54:149][245]BlueprintLog: New page: Compile EmotesWheel
+[2020.01.27-08.02.54:251][245]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.01.27-08.02.55:159][270]LogTemp: Repeating last play command: Standalone Game
+[2020.01.27-08.02.55:266][270]LogUObjectHash: Compacting FUObjectHashTables data took   9.21ms
+[2020.01.27-08.02.56:675][270]LogSlate: Window 'Save Content' being destroyed
+[2020.01.27-08.02.56:718][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame/EmotesWheel" FILE="F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset" SILENT=true
+[2020.01.27-08.02.57:015][270]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmotesWheel802932144DA356C10E46A69F33879AE6.tmp' to 'F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset'
+[2020.01.27-08.03.27:596][692]LogSlate: Window 'Color Picker' being destroyed
+[2020.01.27-08.03.37:498][987]BlueprintLog: New page: Compile EmotesWheel
+[2020.01.27-08.03.37:598][987]LogUObjectHash: Compacting FUObjectHashTables data took   6.84ms
+[2020.01.27-08.03.38:076][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame/EmotesWheel" FILE="F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset" SILENT=true
+[2020.01.27-08.03.38:339][998]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmotesWheel368DEEB9479BB4210677C08B79845A96.tmp' to 'F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset'
+[2020.01.27-08.03.38:796][ 11]LogSlate: Window 'EmotesWheel' being destroyed
+[2020.01.27-08.03.38:825][ 11]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-08.03.38:832][ 11]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-08.03.46:439][345]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/InGame/EmotesWheel.EmotesWheel
+[2020.01.27-08.04.13:027][186]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={6D611F14-4967-38F9-B8BB-B8805585BF54}
+[2020.01.27-08.04.19:636][387]BlueprintLog: New page: Compile EmotesWheel
+[2020.01.27-08.04.20:014][387]LogUObjectHash: Compacting FUObjectHashTables data took   8.05ms
+[2020.01.27-08.04.20:510][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame/EmotesWheel" FILE="F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset" SILENT=true
+[2020.01.27-08.04.20:770][399]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmotesWheel249A312F4AF72EE71351ECB0925507A3.tmp' to 'F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset'
+[2020.01.27-08.04.52:495][402]BlueprintLog: New page: Compile EmotesWheel
+[2020.01.27-08.04.52:612][402]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.01.27-08.04.53:090][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame/EmotesWheel" FILE="F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset" SILENT=true
+[2020.01.27-08.04.53:365][415]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmotesWheel1A0F1BD842F7975C005D5F96DD504A31.tmp' to 'F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset'
+[2020.01.27-08.04.54:257][443]LogTemp: Repeating last play command: Standalone Game
+[2020.01.27-08.04.54:354][443]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2020.01.27-08.05.26:094][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame/EmotesWheel" FILE="F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset" SILENT=true
+[2020.01.27-08.05.26:350][ 27]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmotesWheel0138F7FE4ECEC587F26F949E7F728929.tmp' to 'F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset'
+[2020.01.27-08.05.27:972][ 77]BlueprintLog: New page: Compile EmotesWheel
+[2020.01.27-08.05.28:066][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   5.12ms
+[2020.01.27-08.05.28:487][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame/EmotesWheel" FILE="F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset" SILENT=true
+[2020.01.27-08.05.28:745][ 88]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmotesWheel619943F949D236D1BA1257A17A7A778E.tmp' to 'F:/Github/Jnckr-Lthr/Content/UI/InGame/EmotesWheel.uasset'
+[2020.01.27-08.05.29:138][100]LogTemp: Repeating last play command: Standalone Game
+[2020.01.27-08.05.29:221][100]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.01.27-08.07.59:579][677]LogSlate: Window 'EmotesWheel' being destroyed
+[2020.01.27-08.07.59:612][677]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-08.07.59:650][677]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-08.10.24:862][707]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/morfa/Downloads/Emotes png/AttentionSign.png)
+[2020.01.27-08.10.24:877][707]LogTexture: Display: Building textures: AttentionSign (BGRA8, 838X628)
+[2020.01.27-08.10.24:917][707]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/morfa/Downloads/Emotes png/BeamBlue.png)
+[2020.01.27-08.10.24:928][707]LogTexture: Display: Building textures: BeamBlue (BGRA8, 837X628)
+[2020.01.27-08.10.24:962][707]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/morfa/Downloads/Emotes png/BeamorangeGreen.png)
+[2020.01.27-08.10.24:977][707]LogTexture: Display: Building textures: BeamorangeGreen (BGRA8, 838X628)
+[2020.01.27-08.10.25:007][707]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/morfa/Downloads/Emotes png/BeamPurple.png)
+[2020.01.27-08.10.25:018][707]LogTexture: Display: Building textures: BeamPurple (BGRA8, 837X628)
+[2020.01.27-08.10.25:047][707]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/morfa/Downloads/Emotes png/BeamRed.png)
+[2020.01.27-08.10.25:057][707]LogTexture: Display: Building textures: BeamRed (BGRA8, 838X628)
+[2020.01.27-08.10.25:085][707]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/morfa/Downloads/Emotes png/EmojiFacePalm.png)
+[2020.01.27-08.10.25:096][707]LogTexture: Display: Building textures: EmojiFacePalm (BGRA8, 837X628)
+[2020.01.27-08.10.25:123][707]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/morfa/Downloads/Emotes png/EmojiReactionBad.png)
+[2020.01.27-08.10.25:134][707]LogTexture: Display: Building textures: EmojiReactionBad (BGRA8, 838X628)
+[2020.01.27-08.10.25:163][707]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/morfa/Downloads/Emotes png/EmojiReactionGood.png)
+[2020.01.27-08.10.25:173][707]LogTexture: Display: Building textures: EmojiReactionGood (BGRA8, 837X628)
+[2020.01.27-08.10.25:200][707]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/morfa/Downloads/Emotes png/EmojiThinking.png)
+[2020.01.27-08.10.25:210][707]LogTexture: Display: Building textures: EmojiThinking (BGRA8, 837X628)
+[2020.01.27-08.10.25:238][707]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/morfa/Downloads/Emotes png/NoWordsSign.png)
+[2020.01.27-08.10.25:248][707]LogTexture: Display: Building textures: NoWordsSign (BGRA8, 838X628)
+[2020.01.27-08.10.25:276][707]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/morfa/Downloads/Emotes png/OKsign.png)
+[2020.01.27-08.10.25:287][707]LogTexture: Display: Building textures: OKsign (BGRA8, 837X628)
+[2020.01.27-08.10.25:313][707]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/morfa/Downloads/Emotes png/QuestionSign.png)
+[2020.01.27-08.10.25:329][707]LogTexture: Display: Building textures: QuestionSign (BGRA8, 838X628)
+[2020.01.27-08.10.27:803][807]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.01.27-08.10.29:110][807]LogSlate: Window 'Save Content' being destroyed
+[2020.01.27-08.10.29:178][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/AttentionSign" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/AttentionSign.uasset" SILENT=true
+[2020.01.27-08.10.29:216][807]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/AttentionSignD6C8422E4D348D80CE39D59E4AB7425E.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/AttentionSign.uasset'
+[2020.01.27-08.10.29:237][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/BeamBlue" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/BeamBlue.uasset" SILENT=true
+[2020.01.27-08.10.29:274][807]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/BeamBlueB5C344374150B97B0E3A06A3383A7F09.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/BeamBlue.uasset'
+[2020.01.27-08.10.29:298][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/BeamorangeGreen" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/BeamorangeGreen.uasset" SILENT=true
+[2020.01.27-08.10.29:334][807]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/BeamorangeGreenF99BAE494E07DF182AD7D1AA05A17D07.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/BeamorangeGreen.uasset'
+[2020.01.27-08.10.29:352][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/BeamPurple" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/BeamPurple.uasset" SILENT=true
+[2020.01.27-08.10.29:389][807]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/BeamPurpleEEF5415542FFFC24721661AFA34C52BB.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/BeamPurple.uasset'
+[2020.01.27-08.10.29:406][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/BeamRed" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/BeamRed.uasset" SILENT=true
+[2020.01.27-08.10.29:442][807]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/BeamRed99DE3C2E4DFE1F20C00F27B252A7C0C9.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/BeamRed.uasset'
+[2020.01.27-08.10.29:462][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/EmojiFacePalm" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/EmojiFacePalm.uasset" SILENT=true
+[2020.01.27-08.10.29:499][807]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmojiFacePalmCCDA8EE7494044F08AEB4781E8B207AB.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/EmojiFacePalm.uasset'
+[2020.01.27-08.10.29:521][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/EmojiReactionBad" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/EmojiReactionBad.uasset" SILENT=true
+[2020.01.27-08.10.29:557][807]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmojiReactionBad229982754C35023BDD8B868F67967045.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/EmojiReactionBad.uasset'
+[2020.01.27-08.10.29:574][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/EmojiReactionGood" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/EmojiReactionGood.uasset" SILENT=true
+[2020.01.27-08.10.29:611][807]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmojiReactionGood618A8C4F4B9CA57E7AD529A85B85E550.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/EmojiReactionGood.uasset'
+[2020.01.27-08.10.29:630][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/EmojiThinking" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/EmojiThinking.uasset" SILENT=true
+[2020.01.27-08.10.29:667][807]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmojiThinking4F76A577405E507D99AAD1A75103A1EA.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/EmojiThinking.uasset'
+[2020.01.27-08.10.29:690][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/NoWordsSign" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/NoWordsSign.uasset" SILENT=true
+[2020.01.27-08.10.29:727][807]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/NoWordsSign64878D15450267191C87C1BF148C5A80.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/NoWordsSign.uasset'
+[2020.01.27-08.10.29:745][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/OKsign" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/OKsign.uasset" SILENT=true
+[2020.01.27-08.10.29:783][807]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/OKsignA5C892FA495E5C693728D390C248EFE9.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/OKsign.uasset'
+[2020.01.27-08.10.29:805][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/QuestionSign" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/QuestionSign.uasset" SILENT=true
+[2020.01.27-08.10.29:841][807]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/QuestionSign21F70A934B560E7B2B3302966FECC24B.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/QuestionSign.uasset'
+[2020.01.27-08.10.34:928][ 72]AssetReimport: New page: Outstanding source content changes 10:10:34 AM
+[2020.01.27-08.10.34:931][ 72]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/BeamWheelpartly.png)
+[2020.01.27-08.10.35:004][ 73]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/BeamWheelpartlyBrownGreen.png)
+[2020.01.27-08.10.35:077][ 74]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/BeamWheelpartlyBrown.png)
+[2020.01.27-08.10.35:216][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/BeamWheelpartly" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/BeamWheelpartly.uasset" SILENT=true
+[2020.01.27-08.10.35:272][ 75]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/BeamWheelpartlyE077C3A34F29BA885F6F6ABE3947E28D.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/BeamWheelpartly.uasset'
+[2020.01.27-08.10.35:313][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/BeamWheelpartlyBrownGreen" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/BeamWheelpartlyBrownGreen.uasset" SILENT=true
+[2020.01.27-08.10.35:380][ 75]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/BeamWheelpartlyBrownGreen94BC3ED3498A45EAFACC88876A84776E.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/BeamWheelpartlyBrownGreen.uasset'
+[2020.01.27-08.10.35:407][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/BeamWheelpartlyBrown" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/BeamWheelpartlyBrown.uasset" SILENT=true
+[2020.01.27-08.10.35:464][ 75]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/BeamWheelpartlyBrown78DC13914F0D6744883E07A944D3C82A.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/BeamWheelpartlyBrown.uasset'
+[2020.01.27-08.10.38:492][200]AssetReimport: Importing new asset /Game/Textures/EmoteWheel/BeamWheelpartly.
+[2020.01.27-08.10.38:492][200]AssetReimport: Importing new asset /Game/Textures/EmoteWheel/BeamWheelpartlyBrownGreen.
+[2020.01.27-08.10.38:492][200]AssetReimport: Importing new asset /Game/Textures/EmoteWheel/BeamWheelpartlyBrown.
+[2020.01.27-08.11.01:593][212]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/InGame/BeamWheel.BeamWheel
+[2020.01.27-08.13.52:680][665]BlueprintLog: New page: Compile BeamWheel
+[2020.01.27-08.13.52:773][665]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.01.27-08.13.53:217][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame/BeamWheel" FILE="F:/Github/Jnckr-Lthr/Content/UI/InGame/BeamWheel.uasset" SILENT=true
+[2020.01.27-08.13.53:519][675]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/BeamWheel0D61E0A84791670D74F56188941DE69C.tmp' to 'F:/Github/Jnckr-Lthr/Content/UI/InGame/BeamWheel.uasset'
+[2020.01.27-08.13.54:185][695]LogTemp: Repeating last play command: Standalone Game
+[2020.01.27-08.13.54:266][695]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.01.27-08.14.29:951][231]BlueprintLog: New page: Compile BeamWheel
+[2020.01.27-08.14.30:038][231]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2020.01.27-08.14.30:512][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame/BeamWheel" FILE="F:/Github/Jnckr-Lthr/Content/UI/InGame/BeamWheel.uasset" SILENT=true
+[2020.01.27-08.14.30:802][240]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/BeamWheel35D3CD8E447B5CDA7FFF27B6E68474BD.tmp' to 'F:/Github/Jnckr-Lthr/Content/UI/InGame/BeamWheel.uasset'
+[2020.01.27-08.14.31:260][252]LogTemp: Repeating last play command: Standalone Game
+[2020.01.27-08.14.31:339][252]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2020.01.27-08.14.56:702][829]LogTemp: Repeating last play command: Standalone Game
+[2020.01.27-08.14.56:793][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.01.27-08.15.48:688][720]AssetReimport: New page: Outstanding source content changes 10:15:48 AM
+[2020.01.27-08.15.48:688][720]LogEditorFactories: Performing atomic reimport of [F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/emotesWheel.png]
+[2020.01.27-08.15.48:689][720]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/emotesWheel.png)
+[2020.01.27-08.15.48:728][720]LogEditorFactories: -- imported successfully
+[2020.01.27-08.15.48:810][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/emotesWheel" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/emotesWheel.uasset" SILENT=true
+[2020.01.27-08.15.48:877][721]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/emotesWheelE704246C426163A03C77F1A97CD7703B.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/emotesWheel.uasset'
+[2020.01.27-08.15.50:885][809]LogTemp: Repeating last play command: Standalone Game
+[2020.01.27-08.15.50:958][809]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.01.27-08.15.51:918][850]AssetReimport: Reimported asset emotesWheel from F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/emotesWheel.png.
+[2020.01.27-08.16.24:828][542]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/InGame/Emote.Emote
+[2020.01.27-08.16.58:461][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame/Emote" FILE="F:/Github/Jnckr-Lthr/Content/UI/InGame/Emote.uasset" SILENT=true
+[2020.01.27-08.16.58:640][655]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/Emote5B4CEA554A49C1ABE3DC70BD0AA8DE64.tmp' to 'F:/Github/Jnckr-Lthr/Content/UI/InGame/Emote.uasset'
+[2020.01.27-08.16.59:360][682]BlueprintLog: New page: Compile Emote
+[2020.01.27-08.16.59:589][682]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.01.27-08.17.00:074][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame/Emote" FILE="F:/Github/Jnckr-Lthr/Content/UI/InGame/Emote.uasset" SILENT=true
+[2020.01.27-08.17.00:236][697]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmoteD8E10C7141329C483C739C99BBA6AA66.tmp' to 'F:/Github/Jnckr-Lthr/Content/UI/InGame/Emote.uasset'
+[2020.01.27-08.19.18:443][953]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Textures/EmoteWheel/Emotes/QuestionSign.QuestionSign
+[2020.01.27-08.19.22:472][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2020.01.27-08.19.33:020][ 84]LogSlate: Window 'Replace References?' being destroyed
+[2020.01.27-08.19.33:026][ 84]LogSlate: Window 'Delete Assets' being destroyed
+[2020.01.27-08.19.33:042][ 84]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-08.19.33:047][ 84]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-08.19.33:113][ 84]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-08.19.33:122][ 84]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.01.27-08.19.33:181][ 84]LogSlate: Window 'QuestionSign' being destroyed
+[2020.01.27-08.19.39:664][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.01.27-08.19.42:122][ 84]LogSlate: Window 'Save Content' being destroyed
+[2020.01.27-08.19.42:161][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/AttentionSign" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/AttentionSign.uasset" SILENT=true
+[2020.01.27-08.19.42:184][ 84]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/AttentionSign39F3548A4B63E5BFFAA37E93CE9A59A5.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/AttentionSign.uasset'
+[2020.01.27-08.19.42:199][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/BeamBlue" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/BeamBlue.uasset" SILENT=true
+[2020.01.27-08.19.42:219][ 84]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/BeamBlue089258394407B0E0D3A679A2661DAA0F.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/BeamBlue.uasset'
+[2020.01.27-08.19.42:234][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/BeamorangeGreen" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/BeamorangeGreen.uasset" SILENT=true
+[2020.01.27-08.19.42:253][ 84]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/BeamorangeGreenBDB6BD0E4013DB69E32BEB9995733E20.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/BeamorangeGreen.uasset'
+[2020.01.27-08.19.42:269][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/BeamPurple" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/BeamPurple.uasset" SILENT=true
+[2020.01.27-08.19.42:288][ 84]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/BeamPurple6A1874C145B7A65C47E10F9EEF29690D.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/BeamPurple.uasset'
+[2020.01.27-08.19.42:303][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/BeamRed" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/BeamRed.uasset" SILENT=true
+[2020.01.27-08.19.42:324][ 84]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/BeamRedCC523DE24F03A493A9DC6D8FEC846C72.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/BeamRed.uasset'
+[2020.01.27-08.19.42:338][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/EmojiFacePalm" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/EmojiFacePalm.uasset" SILENT=true
+[2020.01.27-08.19.42:358][ 84]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmojiFacePalm1B01DAFC4CC9F0B163BE1ABAA2F09002.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/EmojiFacePalm.uasset'
+[2020.01.27-08.19.42:373][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/EmojiReactionBad" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/EmojiReactionBad.uasset" SILENT=true
+[2020.01.27-08.19.42:393][ 84]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmojiReactionBadD2FD976E4600C16C3EA77694994817DE.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/EmojiReactionBad.uasset'
+[2020.01.27-08.19.42:409][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/EmojiReactionGood" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/EmojiReactionGood.uasset" SILENT=true
+[2020.01.27-08.19.42:429][ 84]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmojiReactionGood5E9DB8534B87F4329F15BFBFB43C739A.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/EmojiReactionGood.uasset'
+[2020.01.27-08.19.42:443][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/EmojiThinking" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/EmojiThinking.uasset" SILENT=true
+[2020.01.27-08.19.42:466][ 84]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmojiThinking367169A6454DD0EB027F8FA3EB1F518F.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/EmojiThinking.uasset'
+[2020.01.27-08.19.42:481][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/NoWordsSign" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/NoWordsSign.uasset" SILENT=true
+[2020.01.27-08.19.42:501][ 84]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/NoWordsSignE871B0E44118B97A184F728A81ED7B7E.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/NoWordsSign.uasset'
+[2020.01.27-08.19.42:516][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/OKsign" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/OKsign.uasset" SILENT=true
+[2020.01.27-08.19.42:537][ 84]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/OKsignA1CDC39D42ED208D90109BBEF9DCB169.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/OKsign.uasset'
+[2020.01.27-08.19.42:552][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/EmoteWheel/Emotes/QuestionSign" FILE="F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/QuestionSign.uasset" SILENT=true
+[2020.01.27-08.19.42:573][ 84]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/QuestionSignB60FC1D04425BAC34F0C95ACBEA6EF3A.tmp' to 'F:/Github/Jnckr-Lthr/Content/Textures/EmoteWheel/Emotes/QuestionSign.uasset'
+[2020.01.27-08.19.42:588][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InGame/Emote" FILE="F:/Github/Jnckr-Lthr/Content/UI/InGame/Emote.uasset" SILENT=true
+[2020.01.27-08.19.42:748][ 84]LogSavePackage: Moving 'F:/Github/Jnckr-Lthr/Saved/EmoteA62CE5C94B3169189D8B96A42E398803.tmp' to 'F:/Github/Jnckr-Lthr/Content/UI/InGame/Emote.uasset'
+[2020.01.27-08.19.50:321][169]LogSlate: Window 'Message' being destroyed
+[2020.01.27-08.19.50:359][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.01.27-08.19.50:597][169]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.01.27-08.19.52:128][169]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.530 s
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: === Handled ensure: ===
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: 
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: Cannot remove redirection from /Game/Textures/EmoteWheel/Emotes/AttentionSign.AttentionSign, it was not registered
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: Stack: 
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff8437a81b1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff84344e31a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff841c0028d UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff837e10c62 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff837e1059e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff83761ec15 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff837e10008 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff82ad7484c UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff82ad72231 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff82ad75be4 UE4Editor-AssetTools.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff829e51014 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff829e241c9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff829e25488 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff829e25351 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff842f79d2f UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff842f80310 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff842f5c534 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff842ff58b8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff8430114b1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff842f81ca5 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff842e55231 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff842edb4f1 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff842ec52e8 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff842eb9c91 UE4Editor-Slate.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff8abbe4e02 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff8abbd26df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff8abbe7340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff8abbcedd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff8cbc95b6d USER32.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff8cbc95562 USER32.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff8abbe88e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff66def6980 UE4Editor.exe!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff66df0a91c UE4Editor.exe!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff66df0a9fa UE4Editor.exe!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff66df1b92c UE4Editor.exe!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff66df1e60e UE4Editor.exe!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff8cc1d7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: [Callstack] 0x00007ff8cd2cced1 ntdll.dll!UnknownFunction []
+[2020.01.27-08.19.52:128][169]LogOutputDevice: Error: 
+[2020.01.27-08.19.52:141][169]LogStats:                SubmitErrorReport -  0.000 s

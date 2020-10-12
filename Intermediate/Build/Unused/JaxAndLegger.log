@@ -1,0 +1,6 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (F:\BTSGP\Semester3\MPROS3\GOPRO2\JaxAndLeggers).
+  Parsing headers for JaxAndLegger
+    Running UnrealHeaderTool "F:\BTSGP\Semester3\MPROS3\GOPRO2\JaxAndLeggers\JaxAndLegger.uproject" "F:\BTSGP\Semester3\MPROS3\GOPRO2\JaxAndLeggers\Intermediate\Build\Win64\JaxAndLegger\Shipping\JaxAndLegger.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for JaxAndLegger in 5.6218723 seconds
+  Target is up to date
+  Total execution time: 6.43 seconds

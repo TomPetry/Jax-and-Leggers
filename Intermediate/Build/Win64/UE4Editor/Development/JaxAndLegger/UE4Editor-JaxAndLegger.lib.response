@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-JaxAndLegger.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\BTSGP\Semester3\MPROS3\GOPRO2\JaxAndLeggers\Intermediate\Build\Win64\JaxAndLeggerEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\BTSGP\Semester3\MPROS3\GOPRO2\JaxAndLeggers\Intermediate\Build\Win64\UE4Editor\Development\JaxAndLegger\JaxAndLegger.cpp.obj"
+"F:\BTSGP\Semester3\MPROS3\GOPRO2\JaxAndLeggers\Intermediate\Build\Win64\UE4Editor\Development\JaxAndLegger\test.cpp.obj"
+"F:\BTSGP\Semester3\MPROS3\GOPRO2\JaxAndLeggers\Intermediate\Build\Win64\UE4Editor\Development\JaxAndLegger\Default.rc2.res"
+/OUT:"F:\BTSGP\Semester3\MPROS3\GOPRO2\JaxAndLeggers\Intermediate\Build\Win64\UE4Editor\Development\JaxAndLegger\UE4Editor-JaxAndLegger.lib"
+/INCLUDE:IMPLEMENT_MODULE_JaxAndLegger

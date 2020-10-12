@@ -1,0 +1,1188 @@
+﻿Log file open, 11/27/19 09:02:39
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JaxAndLegger
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.062280
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.27-08.02.40:120][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.27-08.02.40:120][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.27-08.02.40:120][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Engine.ini]
+[2019.11.27-08.02.40:120][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.27-08.02.40:120][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Engine.ini]
+[2019.11.27-08.02.40:120][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Engine.ini]
+[2019.11.27-08.02.40:120][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.27-08.02.40:120][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.27-08.02.40:120][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.27-08.02.40:120][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.27-08.02.40:120][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.27-08.02.40:120][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.27-08.02.40:120][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Engine.ini]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.27-08.02.40:121][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Engine.ini]
+[2019.11.27-08.02.40:121][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Engine.ini]
+[2019.11.27-08.02.40:124][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.27-08.02.40:124][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.27-08.02.40:125][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-08.02.40:125][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.27-08.02.40:125][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.27-08.02.40:125][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.27-08.02.40:125][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.27-08.02.40:125][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.27-08.02.40:125][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.27-08.02.40:125][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.27-08.02.40:125][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.27-08.02.40:125][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.27-08.02.40:125][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.27-08.02.40:125][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.27-08.02.40:125][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.27-08.02.40:125][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.27-08.02.40:125][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-08.02.40:125][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.27-08.02.40:125][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.27-08.02.40:125][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.27-08.02.40:125][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.27-08.02.40:127][  0]LogHAL: Display: Platform has ~ 16 GB [17018155008 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.27-08.02.40:127][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.27-08.02.40:127][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.27-08.02.40:127][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Scalability.ini]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.27-08.02.40:128][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Config/Windows/Engine.ini]
+[2019.11.27-08.02.40:128][  0]LogInit: Computer: MSI
+[2019.11.27-08.02.40:128][  0]LogInit: User: TomPetry
+[2019.11.27-08.02.40:128][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.11.27-08.02.40:128][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.27-08.02.40:128][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.11.27-08.02.40:129][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.27-08.02.40:129][  0]LogMemory: Process Physical Memory: 102.21 MB used, 102.21 MB peak
+[2019.11.27-08.02.40:129][  0]LogMemory: Process Virtual Memory: 105.69 MB used, 105.69 MB peak
+[2019.11.27-08.02.40:129][  0]LogMemory: Physical Memory: 9628.68 MB used,  6601.10 MB free, 16229.78 MB total
+[2019.11.27-08.02.40:129][  0]LogMemory: Virtual Memory: 4690.68 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.11.27-08.02.40:407][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.27-08.02.40:427][  0]LogInit: Using OS detected language (en-US).
+[2019.11.27-08.02.40:427][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.27-08.02.40:428][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.27-08.02.40:563][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.27-08.02.40:611][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.27-08.02.40:611][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.27-08.02.40:845][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.27-08.02.40:845][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.27-08.02.40:915][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2019.11.27-08.02.40:915][  0]LogD3D11RHI:       8081/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.11.27-08.02.40:930][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.11.27-08.02.40:930][  0]LogD3D11RHI:       128/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.11.27-08.02.40:932][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.27-08.02.40:932][  0]LogD3D11RHI:       0/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.27-08.02.40:932][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.27-08.02.40:962][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.27-08.02.40:962][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.27-08.02.40:962][  0]LogWindows: EnumDisplayDevices:
+[2019.11.27-08.02.40:962][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.11.27-08.02.40:962][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.27-08.02.40:962][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.27-08.02.40:963][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2019.11.27-08.02.40:963][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.11.27-08.02.40:963][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.11.27-08.02.40:963][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2019.11.27-08.02.40:963][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.11.27-08.02.40:963][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2019.11.27-08.02.40:963][  0]LogD3D11RHI:   Driver Version: 436.30 (internal:26.21.14.3630, unified:436.30)
+[2019.11.27-08.02.40:964][  0]LogD3D11RHI:      Driver Date: 9-5-2019
+[2019.11.27-08.02.40:964][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2019.11.27-08.02.41:004][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.27-08.02.41:031][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.27-08.02.41:403][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.27-08.02.41:411][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.27-08.02.41:419][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.27-08.02.41:428][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.27-08.02.41:436][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.27-08.02.41:444][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.27-08.02.41:451][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.27-08.02.41:459][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.27-08.02.41:462][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.27-08.02.41:490][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.27-08.02.41:490][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.27-08.02.41:490][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.27-08.02.41:491][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.27-08.02.41:491][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.27-08.02.41:491][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.27-08.02.41:491][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.27-08.02.41:491][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.27-08.02.41:491][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.27-08.02.41:491][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.27-08.02.41:491][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.27-08.02.41:491][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.27-08.02.41:491][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.27-08.02.41:491][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.27-08.02.41:491][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.27-08.02.41:491][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.27-08.02.41:491][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.27-08.02.41:491][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.27-08.02.41:492][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.27-08.02.41:506][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.27-08.02.41:506][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.27-08.02.41:519][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.27-08.02.41:519][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.27-08.02.41:525][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.27-08.02.41:531][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.27-08.02.41:537][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.27-08.02.41:544][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.27-08.02.41:566][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.27-08.02.41:566][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.27-08.02.41:566][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.27-08.02.41:573][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.27-08.02.41:610][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (../../../../../Documents/GOPRO/Jax&Leggers/Yes/Intermediate/Shaders/WorkingDirectory/7684/).
+[2019.11.27-08.02.41:610][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tom Petry/AppData/Local/Temp/UnrealShaderWorkingDir/55AA9B974364B93F497FDBA10ED021EC/'.
+[2019.11.27-08.02.41:612][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.27-08.02.41:612][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.27-08.02.41:612][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.27-08.02.42:178][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.27-08.02.42:225][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/Tom Petry/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.27-08.02.42:225][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tom Petry/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.27-08.02.42:225][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Documents/GOPRO/Jax&Leggers/Yes/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.27-08.02.42:225][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.27-08.02.42:225][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Documents/GOPRO/Jax&Leggers/Yes/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.27-08.02.42:225][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.27-08.02.42:235][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.27-08.02.42:235][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.27-08.02.42:235][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.27-08.02.42:236][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tom Petry/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.27-08.02.42:236][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.27-08.02.42:236][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.27-08.02.42:254][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.27-08.02.42:258][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.27-08.02.42:258][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.27-08.02.42:316][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2019.11.27-08.02.42:545][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.27-08.02.42:675][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.27-08.02.42:675][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.27-08.02.42:675][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.27-08.02.42:675][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.27-08.02.42:675][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.27-08.02.42:683][  0]LogNetVersion: JaxAndLegger 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2648958118)
+[2019.11.27-08.02.43:084][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.040479 seconds
+[2019.11.27-08.02.43:092][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.27-08.02.43:092][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.27-08.02.43:092][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.27-08.02.43:934][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.27-08.02.43:936][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.27-08.02.43:980][  0]SourceControl: Source control is disabled
+[2019.11.27-08.02.43:980][  0]SourceControl: Source control is disabled
+[2019.11.27-08.02.43:981][  0]SourceControl: Source control is disabled
+[2019.11.27-08.02.43:982][  0]SourceControl: Source control is disabled
+[2019.11.27-08.02.44:061][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.27-08.02.44:497][  0]LogOcInput: OculusInput pre-init called
+[2019.11.27-08.02.44:502][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.27-08.02.44:502][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.27-08.02.44:559][  0]LogEngine: Initializing Engine...
+[2019.11.27-08.02.44:560][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.27-08.02.44:561][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.27-08.02.44:760][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.27-08.02.44:771][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.27-08.02.44:793][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.27-08.02.44:857][  0]LogInit: FAudioDevice initialized.
+[2019.11.27-08.02.44:857][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.27-08.02.44:946][  0]LogDerivedDataCache: Saved boot cache 0.09s 73MB C:/Users/Tom Petry/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.27-08.02.44:953][  0]LogInit: Texture streaming: Enabled
+[2019.11.27-08.02.44:965][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.27-08.02.44:965][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.11.27-08.02.44:966][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.11.27-08.02.45:022][  0]LogInit: Transaction tracking system initialized
+[2019.11.27-08.02.45:042][  0]BlueprintLog: New page: Editor Load
+[2019.11.27-08.02.45:093][  0]LocalizationService: Localization service is disabled
+[2019.11.27-08.02.45:293][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.27-08.02.45:293][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.27-08.02.45:449][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GOPRO/Jax&Leggers/Yes/Content/' took 0.01s
+[2019.11.27-08.02.45:449][  0]SourceControl: Source control is disabled
+[2019.11.27-08.02.45:449][  0]Cmd: MAP LOAD FILE="../../../../../Documents/GOPRO/Jax&Leggers/Yes/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.27-08.02.45:449][  0]LightingResults: New page: Lighting Build
+[2019.11.27-08.02.45:451][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.27-08.02.45:451][  0]MapCheck: New page: Map Check
+[2019.11.27-08.02.45:451][  0]LightingResults: New page: Lighting Build
+[2019.11.27-08.02.45:479][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.11.27-08.02.45:598][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.27-08.02.45:599][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.27-08.02.45:624][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.11.27-08.02.45:624][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.27-08.02.45:624][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.08ms to complete.
+[2019.11.27-08.02.45:624][  0]LogFileHelpers: Loading map 'MainMenu' took 0.175
+[2019.11.27-08.02.45:749][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.27-08.02.45:756][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.27-08.02.45:764][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.27-08.02.45:770][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.27-08.02.45:774][  0]LogCollectionManager: Loaded 0 collections in 0.001195 seconds
+[2019.11.27-08.02.45:779][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GOPRO/Jax&Leggers/Yes/Saved/Collections/' took 0.00s
+[2019.11.27-08.02.45:779][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GOPRO/Jax&Leggers/Yes/Content/Developers/TomPetry/Collections/' took 0.00s
+[2019.11.27-08.02.45:779][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/GOPRO/Jax&Leggers/Yes/Content/Collections/' took 0.00s
+[2019.11.27-08.02.45:779][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.11.27-08.02.45:787][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2863 classes and 680 folders.
+[2019.11.27-08.02.45:791][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.27-08.02.45:841][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.27-08.02.45:846][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.27-08.02.46:870][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.27-08.02.46:908][  0]LogSlate: Took 0.000420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.27-08.02.46:910][  0]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.27-08.02.46:916][  0]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.27-08.02.46:985][  0]LogRenderer: Reallocating scene render targets to support 1176x572 Format 10 NumSamples 1 (Frame:1).
+[2019.11.27-08.02.47:110][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.11.27-08.02.47:111][  0]LogLoad: (Engine Initialization) Total time: 8.17 seconds
+[2019.11.27-08.02.47:111][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.27-08.02.47:169][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.27-08.02.50:257][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.02.51:236][229]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.27-08.03.00:139][764]LogAssetRegistry: Asset discovery search completed in 17.8234 seconds
+[2019.11.27-08.03.00:143][764]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2019.11.27-08.03.00:143][764]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000096 seconds (updated 0 objects)
+[2019.11.27-08.03.01:589][851]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.03.21:141][  7]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.27-08.03.21:579][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] Invalid pin connection from ' Return Value ' to ' Target '. You may have changed the type after the connections were made.
+[2019.11.27-08.03.21:579][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] Invalid pin connection from ' Return Value ' to ' Target '. You may have changed the type after the connections were made.
+[2019.11.27-08.03.21:579][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] Invalid pin connection from ' Return Value ' to ' Target '. You may have changed the type after the connections were made.
+[2019.11.27-08.03.21:593][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] In use pin  <Unnamed>  no longer exists on node  Pull . Please refresh node or break links to remove pin.
+[2019.11.27-08.03.21:593][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] In use pin  <Unnamed>  no longer exists on node  Pull . Please refresh node or break links to remove pin.
+[2019.11.27-08.03.21:593][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] In use pin  Target  no longer exists on node  Pull . Please refresh node or break links to remove pin.
+[2019.11.27-08.03.21:593][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] In use pin  Target  no longer exists on node  Pull . Please refresh node or break links to remove pin.
+[2019.11.27-08.03.21:593][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] Could not find a function named "Pull" in 'HoverComponent_C'.
+Make sure 'HoverComponent_C' has been compiled for  Pull
+[2019.11.27-08.03.21:594][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] In use pin  <Unnamed>  no longer exists on node  Stop Pull . Please refresh node or break links to remove pin.
+[2019.11.27-08.03.21:594][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] In use pin  <Unnamed>  no longer exists on node  Stop Pull . Please refresh node or break links to remove pin.
+[2019.11.27-08.03.21:594][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] In use pin  Target  no longer exists on node  Stop Pull . Please refresh node or break links to remove pin.
+[2019.11.27-08.03.21:594][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] Could not find a function named "StopPull" in 'HoverComponent_C'.
+Make sure 'HoverComponent_C' has been compiled for  Stop Pull
+[2019.11.27-08.03.21:594][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] Invalid pin connection from ' Return Value ' to ' Target '. You may have changed the type after the connections were made.
+[2019.11.27-08.03.21:594][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] In use pin  <Unnamed>  no longer exists on node  Push . Please refresh node or break links to remove pin.
+[2019.11.27-08.03.21:594][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] In use pin  <Unnamed>  no longer exists on node  Push . Please refresh node or break links to remove pin.
+[2019.11.27-08.03.21:594][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] In use pin  Target  no longer exists on node  Push . Please refresh node or break links to remove pin.
+[2019.11.27-08.03.21:594][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] In use pin  Target  no longer exists on node  Push . Please refresh node or break links to remove pin.
+[2019.11.27-08.03.21:594][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] Could not find a function named "Push" in 'HoverComponent_C'.
+Make sure 'HoverComponent_C' has been compiled for  Push
+[2019.11.27-08.03.21:594][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] In use pin  <Unnamed>  no longer exists on node  Stop Push . Please refresh node or break links to remove pin.
+[2019.11.27-08.03.21:595][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] In use pin  Target  no longer exists on node  Stop Push . Please refresh node or break links to remove pin.
+[2019.11.27-08.03.21:595][  7]LogBlueprint: Error: [Compiler BP_BetterPrism] Could not find a function named "StopPush" in 'HoverComponent_C'.
+Make sure 'HoverComponent_C' has been compiled for  Stop Push
+[2019.11.27-08.03.22:087][  7]LogTexture: Display: Building textures: WheelGreenOrangeBeam (BGRA8, 1886X2823)
+[2019.11.27-08.03.22:087][  7]LogTexture: Display: Building textures: WheelPurpleBeam (AutoDXT, 1884X2824)
+[2019.11.27-08.03.22:087][  7]LogTexture: Display: Building textures: M_Steampunk_BC (AutoDXT, 1000X1000)
+[2019.11.27-08.03.22:087][  7]LogTexture: Display: Building textures: TimedButton_Hand_C (AutoDXT, 2048X2048)
+[2019.11.27-08.03.22:087][  7]LogTexture: Display: Building textures: M_Steampunk_N (BC5, 1000X1000)
+[2019.11.27-08.03.22:087][  7]LogMaterial: Display: Missing cached shader map for material M_PowerReceptor, compiling. 
+[2019.11.27-08.03.22:224][  7]LogTexture: Display: Building textures: WheelRedBeam (BGRA8, 3260X1885)
+[2019.11.27-08.03.22:224][  7]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2019.11.27-08.03.22:224][  7]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2019.11.27-08.03.22:224][  7]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2019.11.27-08.03.22:224][  7]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2019.11.27-08.03.22:224][  7]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2019.11.27-08.03.22:224][  7]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2019.11.27-08.03.22:224][  7]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2019.11.27-08.03.22:224][  7]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2019.11.27-08.03.22:224][  7]LogMaterial: Display: Missing cached shader map for material M_BlueBeam, compiling. 
+[2019.11.27-08.03.22:329][  7]LogTexture: Display: Building textures: TimedButton_Foot_C (AutoDXT, 2048X2048)
+[2019.11.27-08.03.22:329][  7]LogMaterial: Display: Missing cached shader map for material M_Beam_Deact, compiling. 
+[2019.11.27-08.03.22:651][  7]LogMaterial: Display: Missing cached shader map for material M_RightTrigger_Prism, compiling. 
+[2019.11.27-08.03.22:682][  7]LogMaterial: Display: Missing cached shader map for material M_Output_Prism, compiling. 
+[2019.11.27-08.03.22:711][  7]LogMaterial: Display: Missing cached shader map for material M_LeftTrigger_Prism, compiling. 
+[2019.11.27-08.03.22:742][  7]LogMaterial: Display: Missing cached shader map for material M_Body_Prism, compiling. 
+[2019.11.27-08.03.22:908][  7]LogStaticMesh: Building static mesh SM_Button_Jax...
+[2019.11.27-08.03.23:025][  7]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 202
+[2019.11.27-08.03.23:025][  7]LogStaticMesh: Built static mesh [0.14s] /Game/JandL_Models/SM_Button_Jax.SM_Button_Jax
+[2019.11.27-08.03.23:162][  7]LogStaticMesh: Building static mesh SM_TimedButton_Base...
+[2019.11.27-08.03.23:168][  7]LogStaticMesh: Built static mesh [0.01s] /Game/JandL_Models/SM_TimedButton_Base.SM_TimedButton_Base
+[2019.11.27-08.03.23:221][  7]LogMaterial: Display: Missing cached shader map for material M_TimedButton_Jax, compiling. 
+[2019.11.27-08.03.23:249][  7]LogMaterial: Display: Missing cached shader map for material M_TimedButton_Leggers, compiling. 
+[2019.11.27-08.03.23:276][  7]LogMaterial: Display: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2019.11.27-08.03.23:441][  7]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2019.11.27-08.03.23:474][  7]LogStaticMesh: Building static mesh SM_Pipe01...
+[2019.11.27-08.03.23:534][  7]LogStaticMesh: Built static mesh [0.06s] /Game/JandL_Models/Pipes/SM_Pipe01.SM_Pipe01
+[2019.11.27-08.03.23:567][  7]LogAIModule: Creating AISystem for world Prop_Test_2
+[2019.11.27-08.03.23:660][  7]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Prop_Test_2.Prop_Test_2
+[2019.11.27-08.03.23:705][  7]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 289
+[2019.11.27-08.03.23:717][  7]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2019.11.27-08.03.23:728][  7]Cmd: MAP LOAD FILE="../../../../../Documents/GOPRO/Jax&Leggers/Yes/Content/Maps/Prop_Test_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.27-08.03.23:728][  7]LightingResults: New page: Lighting Build
+[2019.11.27-08.03.23:729][  7]LoadErrors: New page: Loading map: Prop_Test_2.umap
+[2019.11.27-08.03.23:730][  7]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.11.27-08.03.23:730][  7]MapCheck: New page: Map Check
+[2019.11.27-08.03.23:730][  7]LightingResults: New page: Lighting Build
+[2019.11.27-08.03.23:768][  7]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.11.27-08.03.24:077][  7]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 279
+[2019.11.27-08.03.24:085][  7]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.27-08.03.24:132][  7]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.11.27-08.03.24:233][  7]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 269
+[2019.11.27-08.03.24:233][  7]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.27-08.03.24:233][  7]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.183ms to complete.
+[2019.11.27-08.03.24:233][  7]LogFileHelpers: Loading map 'Prop_Test_2' took 0.507
+[2019.11.27-08.03.24:986][ 30]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 259
+[2019.11.27-08.03.25:289][ 44]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 249
+[2019.11.27-08.03.25:340][ 46]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 239
+[2019.11.27-08.03.25:376][ 46]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 229
+[2019.11.27-08.03.25:697][ 54]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 219
+[2019.11.27-08.03.28:559][170]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 209
+[2019.11.27-08.03.31:024][278]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 199
+[2019.11.27-08.03.31:049][279]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 189
+[2019.11.27-08.03.31:233][287]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 179
+[2019.11.27-08.03.32:198][328]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 169
+[2019.11.27-08.03.33:748][394]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 159
+[2019.11.27-08.03.36:483][511]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 149
+[2019.11.27-08.03.37:792][567]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 139
+[2019.11.27-08.03.38:383][592]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 129
+[2019.11.27-08.03.40:126][666]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 119
+[2019.11.27-08.03.40:591][686]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 109
+[2019.11.27-08.03.42:392][762]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 99
+[2019.11.27-08.03.42:645][773]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 89
+[2019.11.27-08.03.45:047][844]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 79
+[2019.11.27-08.03.45:116][845]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 69
+[2019.11.27-08.03.45:477][848]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 60
+[2019.11.27-08.03.46:060][858]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 52
+[2019.11.27-08.03.47:550][898]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 45
+[2019.11.27-08.03.48:143][924]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 39
+[2019.11.27-08.03.50:037][999]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2019.11.27-08.03.51:271][ 50]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 29
+[2019.11.27-08.03.51:621][ 64]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 25
+[2019.11.27-08.03.52:618][105]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2019.11.27-08.03.52:674][107]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2019.11.27-08.03.53:093][124]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2019.11.27-08.03.53:669][146]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 13
+[2019.11.27-08.03.53:926][159]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2019.11.27-08.03.54:370][180]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2019.11.27-08.03.54:413][182]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2019.11.27-08.03.54:499][186]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2019.11.27-08.03.54:542][188]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2019.11.27-08.03.55:375][223]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2019.11.27-08.03.55:673][236]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2019.11.27-08.03.55:888][245]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2019.11.27-08.03.56:064][251]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2019.11.27-08.04.13:855][280]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/PrototypeLevels/Level2.Level2
+[2019.11.27-08.04.13:896][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.11.27-08.04.17:599][280]LogSlate: Window 'Save Content' being destroyed
+[2019.11.27-08.04.17:792][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrototypeLevels/Level2" FILE="../../../../../Documents/GOPRO/Jax&Leggers/Yes/Content/Maps/PrototypeLevels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.27-08.04.17:838][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.11.27-08.04.18:102][280]LogSavePackage: Moving '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Saved/Level2DB349B7944B570C5E3EE45B0E1C394C0.tmp' to '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Content/Maps/PrototypeLevels/Level2.umap'
+[2019.11.27-08.04.18:122][280]LogFileHelpers: Saving map 'Level2' took 0.331
+[2019.11.27-08.04.18:128][280]Cmd: MAP LOAD FILE="../../../../../Documents/GOPRO/Jax&Leggers/Yes/Content/Maps/PrototypeLevels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.27-08.04.18:128][280]LightingResults: New page: Lighting Build
+[2019.11.27-08.04.18:128][280]LoadErrors: New page: Loading map: Level2.umap
+[2019.11.27-08.04.18:129][280]LogWorld: UWorld::CleanupWorld for Prop_Test_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.27-08.04.18:129][280]MapCheck: New page: Map Check
+[2019.11.27-08.04.18:130][280]LightingResults: New page: Lighting Build
+[2019.11.27-08.04.18:155][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.11.27-08.04.18:197][280]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.27-08.04.18:197][280]LogAIModule: Creating AISystem for world Level2
+[2019.11.27-08.04.18:239][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.11.27-08.04.18:279][280]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.27-08.04.18:279][280]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.067ms to complete.
+[2019.11.27-08.04.18:280][280]LogFileHelpers: Loading map 'Level2' took 0.154
+[2019.11.27-08.05.15:826][726]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/PrototypeLevels/Level2.Level2
+[2019.11.27-08.05.15:851][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.11.27-08.05.15:852][726]Cmd: MAP LOAD FILE="../../../../../Documents/GOPRO/Jax&Leggers/Yes/Content/Maps/PrototypeLevels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.27-08.05.15:852][726]LightingResults: New page: Lighting Build
+[2019.11.27-08.05.15:853][726]LoadErrors: New page: Loading map: Level2.umap
+[2019.11.27-08.05.15:853][726]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2019.11.27-08.05.15:853][726]MapCheck: New page: Map Check
+[2019.11.27-08.05.15:853][726]LightingResults: New page: Lighting Build
+[2019.11.27-08.05.15:882][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2019.11.27-08.05.15:885][726]LogAIModule: Creating AISystem for world Level2
+[2019.11.27-08.05.15:931][726]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.27-08.05.15:956][726]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.11.27-08.05.15:996][726]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.27-08.05.15:996][726]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2019.11.27-08.05.15:997][726]LogFileHelpers: Loading map 'Level2' took 0.146
+[2019.11.27-08.05.40:966][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.05.41:896][261]LogActorFactory: Actor Factory created Cube
+[2019.11.27-08.05.42:011][267]LogActorFactory: Actor Factory created Cube
+[2019.11.27-08.05.44:286][385]LogEditorViewport: Clicking Background
+[2019.11.27-08.05.44:905][422]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.11.27-08.05.50:377][741]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.27-08.05.52:351][858]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.27-08.06.01:471][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.06.05:315][614]LogEditor: Attempting to add actor of class 'ARSkyLight' to level at -2260.00,-150.00,600.00
+[2019.11.27-08.06.05:353][616]LogEditor: Attempting to add actor of class 'ARSkyLight' to level at -2260.00,-150.00,600.00
+[2019.11.27-08.06.13:420][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.27-08.06.19:360][434]MapCheck: New page: Map Check
+[2019.11.27-08.06.19:546][434]LightingResults: New page: Lighting Build - Nov 27, 2019, 10:06:19 AM
+[2019.11.27-08.06.19:858][434]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.11.27-08.06.20:228][434]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.11.27-08.06.20:241][434]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.11.27-08.06.21:767][434]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.11.27-08.06.21:767][434]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7684
+[2019.11.27-08.06.29:202][434]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.11.27-08.06.29:216][434]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.11.27-08.06.29:216][434]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.11.27-08.06.29:216][434]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.11.27-08.06.29:216][434]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.11.27-08.06.29:216][434]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.11.27-08.06.29:651][434]LogEditorBuildUtils: Build time 0:10
+[2019.11.27-08.06.29:662][434]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2019.11.27-08.06.29:679][434]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2019.11.27-08.06.29:691][435]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2019.11.27-08.06.29:692][435]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2019.11.27-08.06.29:699][435]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.11.27-08.06.29:721][435]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2019.11.27-08.06.29:721][435]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2019.11.27-08.06.29:721][435]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.11.27-08.06.30:523][436]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2019.11.27-08.06.30:523][436]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2019.11.27-08.06.30:523][436]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2019.11.27-08.06.30:523][436]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2019.11.27-08.06.30:656][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.11.27-08.06.32:799][483]Job is a success!
+[2019.11.27-08.06.32:921][483]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.053s
+[2019.11.27-08.06.32:921][483]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.11.27-08.06.32:921][483]LogVolumetricLightmapImport:      BrickData 10x5x5 = 0.0Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.11.27-08.06.32:921][483]LogVolumetricLightmapImport:      Bricks at Level
+[2019.11.27-08.06.32:921][483]LogVolumetricLightmapImport:          0: 50.0% covering 100.0% of volume
+[2019.11.27-08.06.32:921][483]LogVolumetricLightmapImport:          1: 50.0% covering 1.6% of volume
+[2019.11.27-08.06.32:921][483]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.11.27-08.06.32:967][483]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 128X128)
+[2019.11.27-08.06.32:967][483]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 128X128)
+[2019.11.27-08.06.32:967][483]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 128X64)
+[2019.11.27-08.06.33:042][483]Lightmass on MSI: 702 ms total, 146 ms importing, 24 ms setup, 32 ms photons, 454 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 4.98 sec total, 13 ms processing.
+[2019.11.27-08.06.33:093][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2019.11.27-08.06.33:115][483]LogStaticLightingSystem: Illumination: 13.5 sec (14 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.11.27-08.06.33:116][483]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.11.27-08.06.33:116][483]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.11.27-08.06.33:203][483]DumpUnbuiltLightIteractions
+[2019.11.27-08.06.33:204][483]Lights with unbuilt interactions: 0
+[2019.11.27-08.06.33:204][483]
+[2019.11.27-08.06.33:204][483]Primitives with unbuilt interactions: 0
+[2019.11.27-08.06.33:255][484]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.11.27-08.06.33:256][484]MapCheck: New page: Level2 - Nov 27, 2019, 10:06:33 AM
+[2019.11.27-08.06.33:556][484]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 299.879ms to complete.
+[2019.11.27-08.06.41:375][947]Cmd: DELETE
+[2019.11.27-08.06.41:376][947]Cmd: ACTOR DELETE
+[2019.11.27-08.06.41:736][947]LogEditorActor: Deleted Actor: ARSkyLight
+[2019.11.27-08.06.41:759][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2019.11.27-08.06.41:759][947]LogEditorActor: Deleted 1 Actors (0.080 secs)
+[2019.11.27-08.06.44:787][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.06.47:183][268]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={F1B8681E-4185-0DB9-C865-219950870E99}
+[2019.11.27-08.06.52:669][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.07.41:168][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.27-08.07.41:865][524]MapCheck: New page: Map Check
+[2019.11.27-08.07.41:883][524]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.27-08.07.41:891][524]LightingResults: New page: Lighting Build - Nov 27, 2019, 10:07:41 AM
+[2019.11.27-08.07.41:902][524]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.11.27-08.07.41:909][524]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.11.27-08.07.41:909][524]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.11.27-08.07.41:910][524]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.11.27-08.07.41:910][524]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7684
+[2019.11.27-08.07.46:570][524]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.11.27-08.07.46:571][524]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.11.27-08.07.46:571][524]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.11.27-08.07.46:571][524]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.11.27-08.07.46:571][524]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.11.27-08.07.46:571][524]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.11.27-08.07.46:654][524]LogEditorBuildUtils: Build time 0:04
+[2019.11.27-08.07.46:698][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.11.27-08.07.47:688][564]Job is a success!
+[2019.11.27-08.07.47:753][565]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.27-08.07.47:798][565]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2019.11.27-08.07.47:798][565]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.11.27-08.07.47:798][565]LogVolumetricLightmapImport:      BrickData 15x5x5 = 0.0Mb
+[2019.11.27-08.07.47:798][565]LogVolumetricLightmapImport:      Bricks at Level
+[2019.11.27-08.07.47:798][565]LogVolumetricLightmapImport:          0: 33.3% covering 100.0% of volume
+[2019.11.27-08.07.47:798][565]LogVolumetricLightmapImport:          1: 33.3% covering 1.6% of volume
+[2019.11.27-08.07.47:798][565]LogVolumetricLightmapImport:          2: 33.3% covering 0.0% of volume
+[2019.11.27-08.07.47:818][565]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 128X128)
+[2019.11.27-08.07.47:818][565]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 128X64)
+[2019.11.27-08.07.47:818][565]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 128X128)
+[2019.11.27-08.07.47:818][565]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 64X64)
+[2019.11.27-08.07.47:840][565]Lightmass on MSI: 632 ms total, 141 ms importing, 24 ms setup, 29 ms photons, 397 ms processing, 0 ms extra exporting [1/1 mappings]. Threads: 4.36 sec total, 16 ms processing.
+[2019.11.27-08.07.47:871][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2019.11.27-08.07.47:888][565]LogStaticLightingSystem: Illumination: 5.96 sec (2 ms encoding lightmaps, 2 ms encoding shadowmaps)
+[2019.11.27-08.07.47:889][565]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.11.27-08.07.47:889][565]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 1 textures
+[2019.11.27-08.07.48:576][565]DumpUnbuiltLightIteractions
+[2019.11.27-08.07.48:576][565]Lights with unbuilt interactions: 0
+[2019.11.27-08.07.48:576][565]
+[2019.11.27-08.07.48:576][565]Primitives with unbuilt interactions: 0
+[2019.11.27-08.07.48:590][565]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.27-08.07.48:647][566]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.11.27-08.07.48:648][566]MapCheck: New page: Level2 - Nov 27, 2019, 10:07:48 AM
+[2019.11.27-08.07.48:648][566]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.38ms to complete.
+[2019.11.27-08.07.50:849][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.07.53:168][827]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.11.27-08.07.53:168][827]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2019.11.27-08.07.53:169][827]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.11.27-08.07.53:169][827]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.11.27-08.07.53:169][827]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2019.11.27-08.07.53:169][827]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2019.11.27-08.07.53:169][827]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2019.11.27-08.07.53:169][827]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2019.11.27-08.07.53:169][827]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.11.27-08.07.53:169][827]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.11.27-08.07.53:528][827]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.11.27-08.07.53:528][827]LogAIModule: Creating AISystem for world LevelOne
+[2019.11.27-08.07.53:539][827]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/LevelOne.LevelOne
+[2019.11.27-08.07.53:566][827]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2019.11.27-08.07.55:499][827]LogSlate: Window 'Save Content' being destroyed
+[2019.11.27-08.07.55:515][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrototypeLevels/Level2" FILE="../../../../../Documents/GOPRO/Jax&Leggers/Yes/Content/Maps/PrototypeLevels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.27-08.07.55:546][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.11.27-08.07.56:277][827]LogSavePackage: Moving '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Saved/Level2BD7B02A54AD4C2AA152089BD5A66222F.tmp' to '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Content/Maps/PrototypeLevels/Level2.umap'
+[2019.11.27-08.07.56:318][827]LogFileHelpers: Saving map 'Level2' took 0.804
+[2019.11.27-08.07.56:319][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrototypeLevels/Level2_BuiltData" FILE="../../../../../Documents/GOPRO/Jax&Leggers/Yes/Content/Maps/PrototypeLevels/Level2_BuiltData.uasset" SILENT=true
+[2019.11.27-08.07.56:346][827]LogSavePackage: Moving '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Saved/Level2_BuiltData167327A347F36BAC27EE4DB26364F25E.tmp' to '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Content/Maps/PrototypeLevels/Level2_BuiltData.uasset'
+[2019.11.27-08.07.56:348][827]Cmd: MAP LOAD FILE="../../../../../Documents/GOPRO/Jax&Leggers/Yes/Content/Maps/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.27-08.07.56:348][827]LightingResults: New page: Lighting Build
+[2019.11.27-08.07.56:348][827]LoadErrors: New page: Loading map: LevelOne.umap
+[2019.11.27-08.07.56:349][827]LogWorld: UWorld::CleanupWorld for Level2, bSessionEnded=true, bCleanupResources=true
+[2019.11.27-08.07.56:349][827]MapCheck: New page: Map Check
+[2019.11.27-08.07.56:349][827]LightingResults: New page: Lighting Build
+[2019.11.27-08.07.56:374][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2019.11.27-08.07.56:477][827]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.27-08.07.56:506][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.11.27-08.07.56:547][827]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.27-08.07.56:547][827]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2019.11.27-08.07.56:547][827]LogFileHelpers: Loading map 'LevelOne' took 0.200
+[2019.11.27-08.07.56:613][827]LogAIModule: Creating AISystem for world Level2
+[2019.11.27-08.08.07:431][475]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.08.09:774][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.11.27-08.08.09:870][608]LogAIModule: Creating AISystem for world LevelOne
+[2019.11.27-08.08.13:390][793]LogObjectTools: Deleting 1 worlds: /Game/Maps/PrototypeLevels/Level2.Level2
+[2019.11.27-08.08.13:390][793]LogObjectTools: Currently 10 active worlds: /Game/Maps/LevelOne.LevelOne, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8
+[2019.11.27-08.08.13:413][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.11.27-08.08.15:100][793]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.27-08.08.15:320][793]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.27-08.08.15:406][793]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.27-08.08.15:443][793]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.27-08.08.15:485][793]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.11.27-08.08.15:515][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.11.27-08.08.15:554][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2019.11.27-08.08.15:586][793]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.11.27-08.08.16:329][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.08.21:350][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.11.27-08.08.21:362][124]LogMetaData: Removing '/Game/Maps/PrototypeLevels/Level2.SKEL_Level2_C' ref from Metadata '/Game/Maps/PrototypeLevels/LevelOne.PackageMetaData'
+[2019.11.27-08.08.21:362][124]LogMetaData: Removing '/Game/Maps/PrototypeLevels/Level2.Level2_C' ref from Metadata '/Game/Maps/PrototypeLevels/LevelOne.PackageMetaData'
+[2019.11.27-08.08.21:406][124]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.27-08.08.21:422][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/PrototypeLevels/Level2" FILE="../../../../../Documents/GOPRO/Jax&Leggers/Yes/Content/Maps/PrototypeLevels/Level2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.27-08.08.21:459][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2019.11.27-08.08.21:595][124]LogSavePackage: Moving '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Saved/Level2985FEE14465B3049D475D7B3A9E4E898.tmp' to '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Content/Maps/PrototypeLevels/Level2.umap'
+[2019.11.27-08.08.21:604][124]LogFileHelpers: Saving map 'Level2' took 0.183
+[2019.11.27-08.08.21:625][124]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.27-08.08.21:716][124]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.27-08.08.21:754][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2019.11.27-08.08.21:788][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2019.11.27-08.08.21:816][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.11.27-08.08.21:870][124]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.27-08.08.22:578][166]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/PrototypeLevels/Level2.Level2
+[2019.11.27-08.08.22:609][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.11.27-08.08.22:610][166]Cmd: MAP LOAD FILE="../../../../../Documents/GOPRO/Jax&Leggers/Yes/Content/Maps/PrototypeLevels/Level2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.27-08.08.22:610][166]LightingResults: New page: Lighting Build
+[2019.11.27-08.08.22:610][166]LoadErrors: New page: Loading map: Level2.umap
+[2019.11.27-08.08.22:611][166]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.11.27-08.08.22:612][166]MapCheck: New page: Map Check
+[2019.11.27-08.08.22:612][166]LightingResults: New page: Lighting Build
+[2019.11.27-08.08.22:645][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2019.11.27-08.08.22:750][166]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.27-08.08.22:779][166]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2019.11.27-08.08.22:824][166]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.27-08.08.22:824][166]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2019.11.27-08.08.22:826][166]LogFileHelpers: Loading map 'Level2' took 0.216
+[2019.11.27-08.08.25:304][311]LogEditorViewport: Clicking on Actor (LMB): BP_BetterPrism_C (BP_BetterPrism)
+[2019.11.27-08.08.26:284][369]Cmd: DELETE
+[2019.11.27-08.08.26:284][369]Cmd: ACTOR DELETE
+[2019.11.27-08.08.26:285][369]LogEditorActor: Deleted Actor: BP_BetterPrism_C
+[2019.11.27-08.08.26:311][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.11.27-08.08.26:311][369]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.11.27-08.08.27:074][415]LogEditorViewport: Clicking on Actor (LMB): BP_BatteryBlock_C (BP_BatteryBlock)
+[2019.11.27-08.08.27:167][420]Cmd: DELETE
+[2019.11.27-08.08.27:167][420]Cmd: ACTOR DELETE
+[2019.11.27-08.08.27:168][420]LogEditorActor: Deleted Actor: BP_BatteryBlock_C
+[2019.11.27-08.08.27:191][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.11.27-08.08.27:192][420]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.27-08.08.27:589][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.11.27-08.08.27:786][455]Cmd: DELETE
+[2019.11.27-08.08.27:786][455]Cmd: ACTOR DELETE
+[2019.11.27-08.08.27:788][455]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.27-08.08.27:812][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.11.27-08.08.27:813][455]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.11.27-08.08.28:109][473]LogEditorViewport: Clicking on Actor (LMB): BP_Box_C (OutputTest)
+[2019.11.27-08.08.28:314][485]Cmd: DELETE
+[2019.11.27-08.08.28:314][485]Cmd: ACTOR DELETE
+[2019.11.27-08.08.28:317][485]LogEditorActor: Deleted Actor: BP_Box_C
+[2019.11.27-08.08.28:341][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2019.11.27-08.08.28:341][485]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.11.27-08.08.28:599][501]LogEditorViewport: Clicking on Actor (LMB): BP_SignalReceptor_C (BP_SignalReceptor)
+[2019.11.27-08.08.28:905][519]Cmd: DELETE
+[2019.11.27-08.08.28:905][519]Cmd: ACTOR DELETE
+[2019.11.27-08.08.28:907][519]LogEditorActor: Deleted Actor: BP_SignalReceptor_C
+[2019.11.27-08.08.28:931][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.11.27-08.08.28:931][519]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.11.27-08.08.29:176][534]LogEditorViewport: Clicking on Actor (LMB): BP_SignalTester_C (BP_SignalTester)
+[2019.11.27-08.08.29:616][560]Cmd: DELETE
+[2019.11.27-08.08.29:616][560]Cmd: ACTOR DELETE
+[2019.11.27-08.08.29:617][560]LogEditorActor: Deleted Actor: BP_SignalTester_C
+[2019.11.27-08.08.29:641][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.11.27-08.08.29:641][560]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.27-08.08.29:969][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2019.11.27-08.08.30:420][606]Cmd: DELETE
+[2019.11.27-08.08.30:420][606]Cmd: ACTOR DELETE
+[2019.11.27-08.08.30:421][606]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.27-08.08.30:444][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.11.27-08.08.30:444][606]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.11.27-08.08.30:758][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2019.11.27-08.08.30:855][630]Cmd: DELETE
+[2019.11.27-08.08.30:855][630]Cmd: ACTOR DELETE
+[2019.11.27-08.08.30:857][630]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.27-08.08.30:882][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.11.27-08.08.30:883][630]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2019.11.27-08.08.31:296][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2019.11.27-08.08.31:444][663]Cmd: DELETE
+[2019.11.27-08.08.31:444][663]Cmd: ACTOR DELETE
+[2019.11.27-08.08.31:445][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.27-08.08.31:467][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2019.11.27-08.08.31:468][663]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2019.11.27-08.08.31:832][685]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2019.11.27-08.08.31:965][692]Cmd: DELETE
+[2019.11.27-08.08.31:965][692]Cmd: ACTOR DELETE
+[2019.11.27-08.08.31:966][692]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.27-08.08.31:990][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.11.27-08.08.31:991][692]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.11.27-08.08.32:387][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2019.11.27-08.08.32:518][723]Cmd: DELETE
+[2019.11.27-08.08.32:518][723]Cmd: ACTOR DELETE
+[2019.11.27-08.08.32:519][723]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.27-08.08.32:542][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.11.27-08.08.32:542][723]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.27-08.08.33:999][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall10)
+[2019.11.27-08.08.34:083][815]Cmd: DELETE
+[2019.11.27-08.08.34:083][815]Cmd: ACTOR DELETE
+[2019.11.27-08.08.34:084][815]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.27-08.08.34:107][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.11.27-08.08.34:107][815]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2019.11.27-08.08.34:422][834]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall9)
+[2019.11.27-08.08.34:524][839]Cmd: DELETE
+[2019.11.27-08.08.34:524][839]Cmd: ACTOR DELETE
+[2019.11.27-08.08.34:525][839]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.27-08.08.34:548][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2019.11.27-08.08.34:548][839]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.27-08.08.35:114][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2019.11.27-08.08.35:201][877]Cmd: DELETE
+[2019.11.27-08.08.35:201][877]Cmd: ACTOR DELETE
+[2019.11.27-08.08.35:202][877]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.27-08.08.35:227][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.11.27-08.08.35:228][877]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2019.11.27-08.08.35:576][898]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.11.27-08.08.35:661][902]Cmd: DELETE
+[2019.11.27-08.08.35:661][902]Cmd: ACTOR DELETE
+[2019.11.27-08.08.35:662][902]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.27-08.08.35:685][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.11.27-08.08.35:686][902]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.11.27-08.08.38:916][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.27-08.08.40:067][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.27-08.08.41:696][261]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.11.27-08.08.43:609][375]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2019.11.27-08.08.45:371][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.10.47:207][784]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={4B1130B5-4019-4F79-29A5-EFA85E26EAAF}
+[2019.11.27-08.11.33:355][539]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.27-08.11.35:338][631]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2019.11.27-08.11.37:279][746]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.11.44:135][156]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.11.27-08.11.45:802][255]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.27-08.11.48:448][407]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2019.11.27-08.11.50:827][549]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.27-08.11.51:648][598]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.27-08.11.52:455][646]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.11.27-08.11.54:639][776]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.27-08.11.57:918][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.12.28:346][768]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2019.11.27-08.12.32:494][ 16]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.27-08.12.33:100][ 52]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.11.27-08.12.36:213][238]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.27-08.12.42:748][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.12.44:224][715]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Props/BP_BetterPrism.BP_BetterPrism
+[2019.11.27-08.12.44:549][715]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.11.27-08.12.45:992][715]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.27-08.12.57:315][318]LogRenderer: Reallocating scene render targets to support 1176x740 Format 10 NumSamples 1 (Frame:1).
+[2019.11.27-08.13.23:139][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.16.09:791][505]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Interfaces/BPI_Magnetic.BPI_Magnetic
+[2019.11.27-08.18.05:892][441]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Components/HoverComponent.HoverComponent
+[2019.11.27-08.18.31:884][905]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.11.27-08.18.32:131][905]LogSavePackage: Moving '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Saved/Level2_Auto141D472A8494A262120C41585A01C259E.tmp' to '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Saved/Autosaves/Game/Maps/PrototypeLevels/Level2_Auto1.umap'
+[2019.11.27-08.18.32:136][905]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PrototypeLevels/Level2' took 0.312
+[2019.11.27-08.18.32:136][905]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.312
+[2019.11.27-08.18.32:138][905]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Props/BP_BetterPrism] ([1] browsable assets)...
+[2019.11.27-08.18.32:148][905]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Props/BP_BetterPrism.BP_BetterPrism]
+[2019.11.27-08.18.32:148][905]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Props/BP_BetterPrism]
+[2019.11.27-08.18.32:316][905]LogSavePackage: Moving '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Saved/BP_BetterPrism_Auto1CEEEA8E9467E475E52E40E8ACB0B49C7.tmp' to '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Saved/Autosaves/Game/Blueprints/Props/BP_BetterPrism_Auto1.uasset'
+[2019.11.27-08.18.32:316][905]LogFileHelpers: Auto-saving content packages took 0.179
+[2019.11.27-08.19.37:384][707]LogEditorViewport: Clicking on Actor (LMB): BP_TimedButton_C (BP_TimedButton)
+[2019.11.27-08.19.38:368][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.19.57:235][700]LogSlate: Window 'HoverComponent' being destroyed
+[2019.11.27-08.19.57:240][700]LogSlate: Window 'HoverComponent' being destroyed
+[2019.11.27-08.19.57:281][700]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.11.27-08.19.57:398][700]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2019.11.27-08.19.57:465][700]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2019.11.27-08.20.44:461][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.20.49:962][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.21.40:564][733]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.21.58:395][796]LogEditorViewport: Clicking on Actor (LMB): BP_TimedButton_C (BP_TimedButton)
+[2019.11.27-08.21.59:517][860]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.27-08.22.04:775][174]LogEditorViewport: Clicking on Actor (LMB): BP_TimedButton_C (BP_TimedButton2)
+[2019.11.27-08.22.06:440][272]LogEditorViewport: Clicking on Actor (LMB): BP_TimedButton_C (BP_TimedButton)
+[2019.11.27-08.22.08:250][377]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.27-08.22.10:376][504]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.27-08.22.10:925][533]LogEditorViewport: Clicking on Actor (LMB): BP_TimedButton_C (BP_TimedButton)
+[2019.11.27-08.22.19:171][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.22.54:221][ 85]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.23.05:615][760]LogEditorViewport: Clicking on Actor (LMB): BP_TimedButton_C (BP_TimedButton2)
+[2019.11.27-08.23.07:534][873]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2019.11.27-08.23.09:239][971]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.27-08.23.27:275][ 33]LogEditorViewport: Clicking on Actor (LMB): BP_TimedButton_C (BP_TimedButton2)
+[2019.11.27-08.23.29:059][138]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Door_C (BP_Door)
+[2019.11.27-08.23.33:559][403]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2019.11.27-08.23.37:424][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.23.44:024][ 22]LogEditorViewport: Clicking on Actor (LMB): BP_TimedButton_C (BP_TimedButton2)
+[2019.11.27-08.23.50:160][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.23.57:268][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.24.12:700][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.24.33:466][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.24.53:046][ 89]LogActorFactory: Actor Factory created Cube
+[2019.11.27-08.24.53:781][130]LogActorFactory: Actor Factory created Cube
+[2019.11.27-08.25.04:119][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.25.18:198][571]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.27-08.25.19:074][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.11.27-08.25.52:202][595]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.27-08.26.18:381][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.26.18:461][138]LogActorFactory: Actor Factory created Cube
+[2019.11.27-08.26.20:714][272]LogActorFactory: Actor Factory created Cube
+[2019.11.27-08.26.50:447][ 40]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door2)
+[2019.11.27-08.26.52:679][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.11.27-08.27.14:925][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.27.29:989][397]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door2)
+[2019.11.27-08.28.21:597][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.28.24:808][669]LogActorFactory: Actor Factory created Cube
+[2019.11.27-08.28.25:617][717]LogActorFactory: Actor Factory created Cube
+[2019.11.27-08.28.56:853][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.28.56:919][582]Cmd: MODE GRID=0
+[2019.11.27-08.28.57:586][621]Cmd: MODE GRID=1
+[2019.11.27-08.28.58:014][646]Cmd: MODE GRID=0
+[2019.11.27-08.29.09:691][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.29.13:823][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.11.27-08.29.14:139][604]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2019.11.27-08.29.21:836][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.11.27-08.29.29:050][488]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2019.11.27-08.29.31:905][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.27-08.29.38:870][ 71]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2019.11.27-08.29.44:103][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.11.27-08.29.48:539][642]Cmd: TRANSACTION UNDO
+[2019.11.27-08.29.48:539][642]LogEditorTransaction: Undo Move Actors
+[2019.11.27-08.29.50:833][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.29.56:244][ 93]Cmd: EDIT COPY
+[2019.11.27-08.29.56:696][ 93]Cmd: EDIT PASTE
+[2019.11.27-08.30.08:123][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.11.27-08.30.11:866][988]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door2)
+[2019.11.27-08.30.14:593][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.30.18:079][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.11.27-08.30.20:509][497]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2019.11.27-08.30.22:037][586]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door2)
+[2019.11.27-08.30.27:018][881]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.11.27-08.30.37:104][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.11.27-08.30.46:624][ 49]Cmd: EDIT COPY
+[2019.11.27-08.30.46:808][ 60]Cmd: EDIT PASTE
+[2019.11.27-08.30.56:955][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.31.02:800][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.11.27-08.31.03:737][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2019.11.27-08.31.14:271][691]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.31.14:321][694]Cmd: MODE SCALEGRID=0
+[2019.11.27-08.31.21:925][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.11.27-08.31.23:622][247]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2019.11.27-08.31.24:756][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.11.27-08.31.25:889][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.11.27-08.31.26:718][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.11.27-08.31.27:947][496]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door)
+[2019.11.27-08.31.31:162][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2019.11.27-08.31.31:600][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.11.27-08.31.35:948][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2019.11.27-08.31.36:715][  7]Cmd: EDIT COPY
+[2019.11.27-08.31.36:882][ 17]Cmd: EDIT PASTE
+[2019.11.27-08.31.45:728][544]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.31.45:793][548]Cmd: MODE GRID=1
+[2019.11.27-08.31.51:292][874]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.11.27-08.31.52:412][939]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.27-08.31.55:170][102]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart2)
+[2019.11.27-08.31.56:232][164]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.27-08.31.59:248][342]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.27-08.32.01:361][467]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.11.27-08.32.02:836][554]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.11.27-08.32.08:863][915]LogEditorViewport: Clicking on Actor (LMB): BP_TimedButton_C (BP_TimedButton)
+[2019.11.27-08.32.12:566][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.32.17:287][408]LogEditorViewport: Clicking on Actor (LMB): BP_TimedButton_C (BP_TimedButton2)
+[2019.11.27-08.32.18:496][475]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.27-08.32.50:809][396]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.27-08.32.50:912][396]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2019.11.27-08.32.51:210][396]LogSavePackage: Moving '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Saved/Level2_Auto23419C84A4AD47752EB69DDA6566E2CB7.tmp' to '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Saved/Autosaves/Game/Maps/PrototypeLevels/Level2_Auto2.umap'
+[2019.11.27-08.32.51:215][396]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PrototypeLevels/Level2' took 0.382
+[2019.11.27-08.32.51:215][396]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.382
+[2019.11.27-08.40.37:485][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.40.37:534][183]Cmd: MODE SCALEGRID=1
+[2019.11.27-08.40.41:830][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2019.11.27-08.40.43:910][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.11.27-08.40.55:337][228]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.11.27-08.41.04:423][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2019.11.27-08.41.07:056][901]Cmd: POLY SELECT MEMORY UNION
+[2019.11.27-08.41.10:898][122]Cmd: EDIT COPY
+[2019.11.27-08.41.11:135][136]Cmd: EDIT PASTE
+[2019.11.27-08.41.16:045][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.11.27-08.42.51:322][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.27-08.42.51:385][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.11.27-08.42.51:643][ 98]LogSavePackage: Moving '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Saved/Level2_Auto3778D9A8940B94D9B8B810AB71A84E33C.tmp' to '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Saved/Autosaves/Game/Maps/PrototypeLevels/Level2_Auto3.umap'
+[2019.11.27-08.42.51:647][ 98]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PrototypeLevels/Level2' took 0.305
+[2019.11.27-08.42.51:647][ 98]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.305
+[2019.11.27-08.43.02:718][756]LogEditorViewport: Clicking on Actor (LMB): BP_TimedButton_C (BP_TimedButton)
+[2019.11.27-08.43.42:862][162]Cmd: EDIT COPY
+[2019.11.27-08.43.43:066][174]Cmd: EDIT PASTE
+[2019.11.27-08.43.48:138][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.11.27-08.43.57:059][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.44.00:085][167]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.11.27-08.44.03:606][367]LogEditorViewport: Clicking on Actor (LMB): BP_TimedButton_C (BP_TimedButton2)
+[2019.11.27-08.44.04:397][412]Cmd: EDIT COPY
+[2019.11.27-08.44.04:547][421]Cmd: EDIT PASTE
+[2019.11.27-08.44.09:539][712]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.27-08.44.16:727][137]LogEditorViewport: Clicking on Actor (LMB): BP_TimedButton_C (BP_TimedButton3)
+[2019.11.27-08.44.18:175][217]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.27-08.44.22:816][493]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door3)
+[2019.11.27-08.44.24:778][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.44.29:128][858]LogEditorViewport: Clicking on Actor (LMB): BP_Door_C (BP_Door4)
+[2019.11.27-08.44.30:327][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.27-08.52.52:078][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.11.27-08.52.52:272][ 49]LogSavePackage: Moving '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Saved/Level2_Auto4E620849A45B8D3D0E0FBA6969F4F855B.tmp' to '../../../../../Documents/GOPRO/Jax&Leggers/Yes/Saved/Autosaves/Game/Maps/PrototypeLevels/Level2_Auto4.umap'
+[2019.11.27-08.52.52:274][ 49]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/PrototypeLevels/Level2' took 0.228
+[2019.11.27-08.52.52:274][ 49]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.228
+[2019.11.27-09.21.43:383][217]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.27-09.29.01:475][655]LogInit: XAudio2 using 'Digital Output (SC11-MSDisplayAdap)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.27-09.30.46:200][963]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{b5ff343d-9c41-40c2-8c74-e94550726b86} was removed. Shutting down audio device.
+[2019.11.27-09.30.46:201][963]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.11.27-09.35.48:926][ 38]LogRHI: Error: SyncInterval 0
+[2019.11.27-09.35.48:926][ 38]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1936
+[2019.11.27-09.35.48:926][ 38]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1056
+[2019.11.27-09.35.48:926][ 38]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2019.11.27-09.35.48:926][ 38]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2019.11.27-09.35.48:926][ 38]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2019.11.27-09.35.48:926][ 38]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2019.11.27-09.35.48:926][ 38]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2019.11.27-09.35.48:926][ 38]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2019.11.27-09.35.48:926][ 38]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2019.11.27-09.35.48:926][ 38]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2019.11.27-09.35.48:926][ 38]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2019.11.27-09.35.48:926][ 38]LogRHI: Error: SwapChainDesc.OutputWindow 00000000000C0BE8
+[2019.11.27-09.35.48:926][ 38]LogRHI: Error: SwapChainDesc.Windowed true
+[2019.11.27-09.35.48:926][ 38]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2019.11.27-09.35.48:926][ 38]LogRHI: Error: SwapChainDesc.Flags 2050
+[2019.11.27-09.35.48:926][ 38]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Viewport.cpp:368 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_REMOVED
+[2019.11.27-09.35.48:926][ 38]LogD3D11RHI: [Aftermath] GDynamicRHI=000002AA1CD2E0C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2019.11.27-09.35.48:927][ 38]LogWindows: Windows GetLastError: The operation completed successfully. (0)

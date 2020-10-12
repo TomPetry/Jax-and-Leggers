@@ -1,0 +1,1278 @@
+﻿Log file open, 11/10/19 11:03:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: JaxAndLegger
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.048339
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=LastXander -epicuserid=fd28c16ff2b246059b67a59f3fa22300 -epiclocale=en-US
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Engine.ini]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Engine.ini]
+[2019.11.10-10.03.55:686][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Engine.ini]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Engine.ini]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.10-10.03.55:686][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.10-10.03.55:687][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.10-10.03.55:687][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.10-10.03.55:687][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.10-10.03.55:687][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.10-10.03.55:687][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.10-10.03.55:687][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Engine.ini]
+[2019.11.10-10.03.55:687][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Engine.ini]
+[2019.11.10-10.03.55:689][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Scalability.ini]
+[2019.11.10-10.03.55:689][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.10-10.03.55:689][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.10-10.03.55:689][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Scalability.ini]
+[2019.11.10-10.03.55:689][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.10-10.03.55:689][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Scalability.ini]
+[2019.11.10-10.03.55:689][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.10-10.03.55:689][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.10-10.03.55:689][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.10-10.03.55:689][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.10-10.03.55:689][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Scalability.ini]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Scalability.ini]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Scalability.ini]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Scalability.ini]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.10-10.03.55:690][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.10-10.03.55:690][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.10-10.03.55:690][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.10-10.03.55:692][  0]LogHAL: Display: Platform has ~ 64 GB [68649021440 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.10-10.03.55:692][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.10-10.03.55:692][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Scalability.ini]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Scalability.ini]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Scalability.ini]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Scalability.ini]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Scalability.ini]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Scalability.ini]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.10-10.03.55:692][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.10-10.03.55:693][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.10-10.03.55:693][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.10-10.03.55:693][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.10-10.03.55:693][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.10-10.03.55:693][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.10-10.03.55:693][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.10-10.03.55:693][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Scalability.ini]
+[2019.11.10-10.03.55:693][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.10-10.03.55:693][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.10-10.03.55:693][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.10-10.03.55:693][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.10-10.03.55:693][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.10-10.03.55:693][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Config/Windows/Engine.ini]
+[2019.11.10-10.03.55:693][  0]LogInit: Computer: DESKTOP-HNO6L0O
+[2019.11.10-10.03.55:693][  0]LogInit: User: morfa
+[2019.11.10-10.03.55:693][  0]LogInit: CPU Page size=4096, Cores=8
+[2019.11.10-10.03.55:693][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.11.10-10.03.55:693][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2019.11.10-10.03.55:693][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.10-10.03.55:693][  0]LogMemory: Process Physical Memory: 104.74 MB used, 104.75 MB peak
+[2019.11.10-10.03.55:693][  0]LogMemory: Process Virtual Memory: 90.43 MB used, 90.43 MB peak
+[2019.11.10-10.03.55:693][  0]LogMemory: Physical Memory: 5896.65 MB used,  59572.16 MB free, 65468.81 MB total
+[2019.11.10-10.03.55:693][  0]LogMemory: Virtual Memory: 4691.74 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.11.10-10.03.55:694][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.10-10.03.55:708][  0]LogInit: Using OS detected language (en-US).
+[2019.11.10-10.03.55:708][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.10-10.03.55:708][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.10-10.03.55:815][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.10-10.03.55:841][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.10-10.03.55:841][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.10-10.03.55:944][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.10-10.03.55:944][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.10-10.03.55:991][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2019.11.10-10.03.55:991][  0]LogD3D11RHI:       11127/0/32734 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.11.10-10.03.55:993][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.10-10.03.55:993][  0]LogD3D11RHI:       0/0/32734 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.10-10.03.55:993][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.11.10-10.03.55:997][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.10-10.03.55:997][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2019.11.10-10.03.55:997][  0]LogWindows: EnumDisplayDevices:
+[2019.11.10-10.03.55:997][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2019.11.10-10.03.55:998][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2019.11.10-10.03.55:998][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.11.10-10.03.55:998][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.11.10-10.03.55:998][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.11.10-10.03.55:998][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2019.11.10-10.03.55:998][  0]LogD3D11RHI:   Driver Version: 441.12 (internal:26.21.14.4112, unified:441.12)
+[2019.11.10-10.03.55:998][  0]LogD3D11RHI:      Driver Date: 10-24-2019
+[2019.11.10-10.03.55:998][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2019.11.10-10.03.56:025][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.10-10.03.56:043][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.11.10-10.03.56:222][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.10-10.03.56:227][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.10-10.03.56:233][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.10-10.03.56:238][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.10-10.03.56:244][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.10-10.03.56:249][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.10-10.03.56:255][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.10-10.03.56:260][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.10-10.03.56:263][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.10-10.03.56:284][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.10-10.03.56:285][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.10-10.03.56:296][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.10-10.03.56:296][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.10-10.03.56:305][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.10-10.03.56:305][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.10-10.03.56:309][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.10-10.03.56:314][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.10-10.03.56:318][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.10-10.03.56:323][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.10-10.03.56:338][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.10-10.03.56:338][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.10-10.03.56:338][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.10-10.03.56:344][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.10-10.03.56:374][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Intermediate/Shaders/WorkingDirectory/12716/).
+[2019.11.10-10.03.56:374][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/morfa/AppData/Local/Temp/UnrealShaderWorkingDir/EF7BF42549BA82467C2CE9B3E058D97E/'.
+[2019.11.10-10.03.56:376][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.10-10.03.56:376][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.10-10.03.56:376][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.10-10.03.56:804][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.10-10.03.56:839][  0]LogDerivedDataCache: Loaded boot cache 0.03s 73MB C:/Users/morfa/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.10-10.03.56:839][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/morfa/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.10-10.03.56:839][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.10-10.03.56:839][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.10-10.03.56:839][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.10-10.03.56:839][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.10-10.03.56:847][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.10-10.03.56:847][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.10-10.03.56:847][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.10-10.03.56:848][  0]LogDerivedDataCache: Using Local data cache path C:/Users/morfa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.10-10.03.56:848][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.10-10.03.56:848][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.10-10.03.56:862][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.10-10.03.56:864][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.10-10.03.56:864][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.10-10.03.56:899][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2019.11.10-10.03.57:064][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.10-10.03.57:167][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.10-10.03.57:167][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.10-10.03.57:167][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.10-10.03.57:167][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.10-10.03.57:167][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.10-10.03.57:174][  0]LogNetVersion: JaxAndLegger 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2648958118)
+[2019.11.10-10.03.57:488][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.070335 seconds
+[2019.11.10-10.03.57:493][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.10-10.03.57:493][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.10-10.03.57:493][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.10-10.03.58:028][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.10-10.03.58:029][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.10-10.03.58:065][  0]SourceControl: Source control is disabled
+[2019.11.10-10.03.58:065][  0]SourceControl: Source control is disabled
+[2019.11.10-10.03.58:066][  0]SourceControl: Source control is disabled
+[2019.11.10-10.03.58:067][  0]SourceControl: Source control is disabled
+[2019.11.10-10.03.58:072][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.10-10.03.58:072][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.10-10.03.58:126][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.10-10.03.58:250][  0]LogOcInput: OculusInput pre-init called
+[2019.11.10-10.03.58:254][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.10-10.03.58:254][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.10-10.03.58:299][  0]LogEngine: Initializing Engine...
+[2019.11.10-10.03.58:299][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.10-10.03.58:300][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.10-10.03.58:446][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.10-10.03.58:455][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.10-10.03.58:480][  0]LogInit: XAudio2 using 'Acer XB241H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.10-10.03.58:488][  0]LogInit: FAudioDevice initialized.
+[2019.11.10-10.03.58:489][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.10-10.03.58:521][  0]LogDerivedDataCache: Saved boot cache 0.03s 73MB C:/Users/morfa/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.10-10.03.58:529][  0]LogInit: Texture streaming: Enabled
+[2019.11.10-10.03.58:540][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.10-10.03.58:540][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.11.10-10.03.58:541][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.11.10-10.03.58:598][  0]LogInit: Transaction tracking system initialized
+[2019.11.10-10.03.58:617][  0]BlueprintLog: New page: Editor Load
+[2019.11.10-10.03.58:668][  0]LocalizationService: Localization service is disabled
+[2019.11.10-10.03.58:714][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.10-10.03.58:714][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2019.11.10-10.03.58:816][  0]LogFileCache: Scanning file cache for directory 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/' took 0.00s
+[2019.11.10-10.03.58:816][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.10-10.03.58:816][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.10-10.03.58:924][  0]SourceControl: Source control is disabled
+[2019.11.10-10.03.58:924][  0]Cmd: MAP LOAD FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.10-10.03.58:924][  0]LightingResults: New page: Lighting Build
+[2019.11.10-10.03.58:925][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-10.03.58:926][  0]MapCheck: New page: Map Check
+[2019.11.10-10.03.58:926][  0]LightingResults: New page: Lighting Build
+[2019.11.10-10.03.58:948][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2019.11.10-10.03.59:025][  0]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.10-10.03.59:025][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.10-10.03.59:048][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.11.10-10.03.59:048][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.10-10.03.59:048][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.09ms to complete.
+[2019.11.10-10.03.59:048][  0]LogFileHelpers: Loading map 'MainMenu' took 0.124
+[2019.11.10-10.03.59:142][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.03.59:147][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.03.59:151][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.03.59:155][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.03.59:159][  0]LogCollectionManager: Loaded 0 collections in 0.001112 seconds
+[2019.11.10-10.03.59:163][  0]LogFileCache: Scanning file cache for directory 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Collections/' took 0.00s
+[2019.11.10-10.03.59:163][  0]LogFileCache: Scanning file cache for directory 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Developers/morfa/Collections/' took 0.00s
+[2019.11.10-10.03.59:163][  0]LogFileCache: Scanning file cache for directory 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Collections/' took 0.00s
+[2019.11.10-10.03.59:163][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.11.10-10.03.59:169][  0]LogContentBrowser: Native class hierarchy populated in 0.0057 seconds. Added 2863 classes and 680 folders.
+[2019.11.10-10.03.59:172][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.10-10.03.59:193][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.10-10.03.59:196][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.10-10.03.59:943][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.11.10-10.03.59:960][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.10-10.03.59:961][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.10-10.03.59:963][  0]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.10-10.03.59:994][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.11.10-10.04.00:070][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.10-10.04.00:070][  0]LogLoad: (Engine Initialization) Total time: 4.98 seconds
+[2019.11.10-10.04.00:070][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.10-10.04.00:205][  0]LogAssetRegistry: Asset discovery search completed in 3.3068 seconds
+[2019.11.10-10.04.00:207][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.11.10-10.04.00:207][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000030 seconds (updated 0 objects)
+[2019.11.10-10.04.00:210][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.10-10.04.00:230][  0]LogSlate: Took 0.000093 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.10-10.04.04:323][364]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.10-10.04.45:190][258]Cmd: TRANSACTION UNDO
+[2019.11.10-10.04.45:190][258]LogEditorTransaction: Undo Delete Child
+[2019.11.10-10.04.45:196][258]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.10-10.04.45:410][283]Cmd: TRANSACTION UNDO
+[2019.11.10-10.04.45:410][283]LogEditorTransaction: Undo Delete Child
+[2019.11.10-10.04.54:997][100]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.10-10.06.58:855][685]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.10-10.06.58:859][685]LogSlate: Window 'Project Settings' being destroyed
+[2019.11.10-10.07.02:180][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.10-10.07.02:246][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.10-10.07.02:262][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.10-10.07.02:262][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.10-10.07.02:263][ 90]PIE: New page: PIE session: MainMenu (Nov 10, 2019, 12:07:02 PM)
+[2019.11.10-10.07.02:263][ 90]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.10-10.07.02:264][ 90]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2019.11.10-10.07.02:265][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000776s)
+[2019.11.10-10.07.02:266][ 90]LogAIModule: Creating AISystem for world MainMenu
+[2019.11.10-10.07.02:266][ 90]LogPlayLevel: PIE: World Init took: (0.000653s)
+[2019.11.10-10.07.02:266][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.001564s)
+[2019.11.10-10.07.02:287][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2019.11.10-10.07.02:307][ 90]LogInit: XAudio2 using 'Acer XB241H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.10-10.07.02:313][ 90]LogInit: FAudioDevice initialized.
+[2019.11.10-10.07.02:351][ 90]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2019.11.10-10.07.02:351][ 90]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.11.10-10.07.02:404][ 90]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.10-10.07.02:405][ 90]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2019.11.10-11.07.02
+[2019.11.10-10.07.02:405][ 90]LogWorld: Bringing up level for play took: 0.000221
+[2019.11.10-10.07.02:405][ 90]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.11.10-10.07.02:410][ 90]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.11.10-10.07.02:412][ 90]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0.249
+[2019.11.10-10.07.02:412][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.10-10.07.04:421][330]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.10-10.07.04:422][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.07.04:422][330]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2019.11.10-10.07.04:422][330]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-10.07.04:430][330]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.10-10.07.04:430][330]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2019.11.10-10.07.04:458][330]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.07.04:461][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.11.10-10.07.04:526][338]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.11.10-10.07.07:147][650]LogBlueprint: Warning: [Compiler Leggers] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2019.11.10-10.07.07:148][650]LogBlueprint: Warning: [Compiler Leggers] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.11.10-10.07.07:190][650]LogBlueprint: Warning: [Compiler Jax] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2019.11.10-10.07.07:190][650]LogBlueprint: Warning: [Compiler Jax] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2019.11.10-10.07.07:301][650]LogAIModule: Creating AISystem for world LevelOne
+[2019.11.10-10.07.07:306][650]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/LevelOne.LevelOne
+[2019.11.10-10.07.07:332][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.11.10-10.07.07:332][650]Cmd: MAP LOAD FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Maps/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.10-10.07.07:332][650]LightingResults: New page: Lighting Build
+[2019.11.10-10.07.07:333][650]LoadErrors: New page: Loading map: LevelOne.umap
+[2019.11.10-10.07.07:333][650]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-10.07.07:334][650]MapCheck: New page: Map Check
+[2019.11.10-10.07.07:334][650]LightingResults: New page: Lighting Build
+[2019.11.10-10.07.07:357][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.11.10-10.07.07:360][650]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.10-10.07.07:384][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.11.10-10.07.07:410][650]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.10-10.07.07:411][650]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2019.11.10-10.07.07:411][650]LogFileHelpers: Loading map 'LevelOne' took 0.078
+[2019.11.10-10.07.08:265][747]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.10-10.07.08:281][747]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.07.08:281][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.10-10.07.08:281][747]PIE: New page: PIE session: LevelOne (Nov 10, 2019, 12:07:08 PM)
+[2019.11.10-10.07.08:281][747]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelOne
+[2019.11.10-10.07.08:290][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009393s)
+[2019.11.10-10.07.08:292][747]LogAIModule: Creating AISystem for world LevelOne
+[2019.11.10-10.07.08:292][747]LogPlayLevel: PIE: World Init took: (0.001285s)
+[2019.11.10-10.07.08:292][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelOne.LevelOne to /Game/Maps/UEDPIE_0_LevelOne.LevelOne (0.010912s)
+[2019.11.10-10.07.08:315][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.11.10-10.07.08:335][747]LogInit: XAudio2 using 'Acer XB241H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.10-10.07.08:340][747]LogInit: FAudioDevice initialized.
+[2019.11.10-10.07.08:345][747]LogLoad: Game class is 'GameplayGM_C'
+[2019.11.10-10.07.08:347][747]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.11.10-11.07.08
+[2019.11.10-10.07.08:347][747]LogWorld: Bringing up level for play took: 0.001300
+[2019.11.10-10.07.08:347][747]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.11.10-10.07.08:348][747]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.07.08:350][747]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelOne 0.187
+[2019.11.10-10.07.08:350][747]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.07.14:763][515]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.07.14:763][515]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2019.11.10-10.07.14:763][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.07.14:763][515]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelOne
+[2019.11.10-10.07.14:763][515]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-10.07.14:766][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.10-10.07.14:766][515]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.07.14:793][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.07.14:795][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.11.10-10.07.14:870][523]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.11.10-10.07.32:503][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.10-10.07.33:708][781]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Jax.Jax
+[2019.11.10-10.07.33:863][781]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.11.10-10.07.34:428][781]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.10-10.07.34:489][782]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.10-10.09.48:080][645]BlueprintLog: New page: Compile Jax
+[2019.11.10-10.09.48:093][645]LogBlueprint: Warning: [Compiler Jax] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2019.11.10-10.09.48:238][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2019.11.10-10.09.48:528][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Jax" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset" SILENT=true
+[2019.11.10-10.09.48:670][673]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Jax6D67CC824BA407E3EEE53D977D9735D4.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset'
+[2019.11.10-10.09.58:956][894]BlueprintLog: New page: Compile Jax
+[2019.11.10-10.09.59:108][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.11.10-10.09.59:379][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Jax" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset" SILENT=true
+[2019.11.10-10.09.59:510][920]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/JaxC771DBE844C859AFADEE27A1C4507A4C.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset'
+[2019.11.10-10.10.51:711][127]BlueprintLog: New page: Compile Jax
+[2019.11.10-10.10.51:861][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.11.10-10.10.52:109][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Jax" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset" SILENT=true
+[2019.11.10-10.10.52:244][150]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Jax49158B6A491284E03EF1D49475DCA90E.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset'
+[2019.11.10-10.11.51:064][124]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.10-10.12.11:264][530]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.10-10.12.14:824][954]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.10-10.12.15:929][ 82]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.10-10.12.18:287][362]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.10-10.12.58:194][110]BlueprintLog: New page: Compile Jax
+[2019.11.10-10.12.58:207][110]LogBlueprint: Error: [Compiler Jax] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.11.10-10.12.58:207][110]LogBlueprint: Error: [Compiler Jax] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.11.10-10.12.58:207][110]LogBlueprint: Error: [Compiler Jax] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.11.10-10.12.58:208][110]LogBlueprint: Error: [Compiler Jax] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2019.11.10-10.12.58:350][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2019.11.10-10.12.58:501][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Jax" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset" SILENT=true
+[2019.11.10-10.12.58:637][121]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Jax0FF63DDA4874FD6A3211129B95B3810C.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset'
+[2019.11.10-10.13.06:395][ 44]BlueprintLog: New page: Compile Jax
+[2019.11.10-10.13.06:548][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2019.11.10-10.13.06:904][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Jax" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset" SILENT=true
+[2019.11.10-10.13.07:045][ 81]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/JaxFF6F5670492BAB85FAAFB8A94F05392F.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset'
+[2019.11.10-10.13.07:639][150]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.10-10.13.07:658][150]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.13.07:658][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.10-10.13.07:658][150]PIE: New page: PIE session: LevelOne (Nov 10, 2019, 12:13:07 PM)
+[2019.11.10-10.13.07:658][150]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelOne
+[2019.11.10-10.13.07:666][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007790s)
+[2019.11.10-10.13.07:667][150]LogAIModule: Creating AISystem for world LevelOne
+[2019.11.10-10.13.07:667][150]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2019.11.10-10.13.07:667][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelOne.LevelOne to /Game/Maps/UEDPIE_0_LevelOne.LevelOne (0.008678s)
+[2019.11.10-10.13.07:696][150]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.11.10-10.13.07:716][150]LogInit: XAudio2 using 'Acer XB241H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.10-10.13.07:722][150]LogInit: FAudioDevice initialized.
+[2019.11.10-10.13.07:735][150]LogLoad: Game class is 'GameplayGM_C'
+[2019.11.10-10.13.07:736][150]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.11.10-11.13.07
+[2019.11.10-10.13.07:736][150]LogWorld: Bringing up level for play took: 0.001266
+[2019.11.10-10.13.07:736][150]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.11.10-10.13.07:738][150]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.13.07:738][150]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelOne -0.425
+[2019.11.10-10.13.07:739][150]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.13.18:984][497]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.13.18:984][497]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2019.11.10-10.13.18:984][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.13.18:984][497]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelOne
+[2019.11.10-10.13.18:984][497]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-10.13.18:992][497]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.10-10.13.18:992][497]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.13.19:023][497]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.13.19:026][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2019.11.10-10.13.19:087][503]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.11.10-10.13.22:462][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.10-10.13.22:487][911]MapCheck: New page: Map Check
+[2019.11.10-10.13.22:501][911]Cmd: MAP REBUILD ALLVISIBLE
+[2019.11.10-10.13.22:502][911]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.11.10-10.13.22:512][911]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=false
+[2019.11.10-10.13.22:549][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.11.10-10.13.22:568][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.10-10.13.22:577][911]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2019.11.10-10.13.22:577][911]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2019.11.10-10.13.22:577][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.10-10.13.22:583][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.10-10.13.22:589][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.10-10.13.22:596][911]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2019.11.10-10.13.22:596][911]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2019.11.10-10.13.22:596][911]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2019.11.10-10.13.22:596][911]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2019.11.10-10.13.22:596][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.10-10.13.22:602][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.10-10.13.22:609][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.10-10.13.22:615][911]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.10-10.13.23:038][911]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2019.11.10-10.13.23:038][911]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2019.11.10-10.13.23:038][911]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2019.11.10-10.13.23:038][911]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2019.11.10-10.13.23:038][911]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2019.11.10-10.13.23:038][911]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2019.11.10-10.13.23:038][911]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2019.11.10-10.13.23:038][911]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 3
+[2019.11.10-10.13.23:038][911]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2019.11.10-10.13.23:038][911]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2019.11.10-10.13.23:038][911]TextureStreamingBuild: Display: Compiling optional shaders took 0.477 seconds.
+[2019.11.10-10.13.23:058][911]LogLevel: Display: Export Material TexCoord Scales took 0.020 seconds.
+[2019.11.10-10.13.23:073][911]TextureStreamingBuild: Display: Build Texture Streaming took 0.014 seconds.
+[2019.11.10-10.13.23:099][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.11.10-10.13.23:099][911]LightingResults: New page: Lighting Build - Nov 10, 2019, 12:13:23 PM
+[2019.11.10-10.13.23:132][911]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.11.10-10.13.23:173][911]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.11.10-10.13.23:183][911]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.11.10-10.13.23:693][911]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.11.10-10.13.23:693][911]LogSwarmInterface: [TryOpenConnection] Local Process ID is 12716
+[2019.11.10-10.13.25:886][911]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.11.10-10.13.25:886][911]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.11.10-10.13.25:886][911]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.11.10-10.13.25:886][911]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.11.10-10.13.25:886][911]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.11.10-10.13.26:004][911]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.11.10-10.13.26:004][911]MapCheck: New page: LevelOne - Nov 10, 2019, 12:13:26 PM
+[2019.11.10-10.13.26:004][911]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2019.11.10-10.13.26:004][911]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.663ms to complete.
+[2019.11.10-10.13.26:005][911]LogEditorBuildUtils: Build time 0:03
+[2019.11.10-10.13.26:372][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.11.10-10.13.28:682][  9]Job is a success!
+[2019.11.10-10.13.28:726][ 10]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2019.11.10-10.13.28:726][ 10]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.11.10-10.13.28:726][ 10]LogVolumetricLightmapImport:      BrickData 220x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.11.10-10.13.28:726][ 10]LogVolumetricLightmapImport:      Bricks at Level
+[2019.11.10-10.13.28:726][ 10]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2019.11.10-10.13.28:726][ 10]LogVolumetricLightmapImport:          1: 9.1% covering 6.3% of volume
+[2019.11.10-10.13.28:726][ 10]LogVolumetricLightmapImport:          2: 88.6% covering 1.0% of volume
+[2019.11.10-10.13.28:957][ 10]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.11.10-10.13.28:957][ 10]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.11.10-10.13.28:957][ 10]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.11.10-10.13.28:957][ 10]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2019.11.10-10.13.28:957][ 10]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2019.11.10-10.13.28:957][ 10]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2019.11.10-10.13.28:957][ 10]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2019.11.10-10.13.28:957][ 10]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2019.11.10-10.13.28:957][ 10]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2019.11.10-10.13.28:957][ 10]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2019.11.10-10.13.29:089][ 10]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2019.11.10-10.13.29:115][ 10]Lightmass on DESKTOP-HNO6L0O: 2.35 sec total, 128 ms importing, 15 ms setup, 494 ms photons, 1.64 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 24.6 sec total, 3.51 sec processing.
+[2019.11.10-10.13.29:118][ 10]LogStaticLightingSystem: LevelOne_BuiltData storing lightmap data for 12 meshes in 3 LightmapResourceClusters (4.0 Meshes per cluster).
+[2019.11.10-10.13.29:148][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2019.11.10-10.13.29:154][ 10]LogStaticLightingSystem: Illumination: 6.04 sec (182 ms encoding lightmaps, 147 ms encoding shadowmaps)
+[2019.11.10-10.13.29:154][ 10]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2019.11.10-10.13.29:154][ 10]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2019.11.10-10.13.29:885][ 10]DumpUnbuiltLightIteractions
+[2019.11.10-10.13.29:885][ 10]Lights with unbuilt interactions: 0
+[2019.11.10-10.13.29:885][ 10]
+[2019.11.10-10.13.29:885][ 10]Primitives with unbuilt interactions: 0
+[2019.11.10-10.13.29:926][ 11]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.11.10-10.13.29:926][ 11]MapCheck: New page: LevelOne - Nov 10, 2019, 12:13:29 PM
+[2019.11.10-10.13.29:926][ 11]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.272ms to complete.
+[2019.11.10-10.13.35:693][701]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.10-10.13.35:714][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.13.35:714][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.10-10.13.35:714][701]PIE: New page: PIE session: LevelOne (Nov 10, 2019, 12:13:35 PM)
+[2019.11.10-10.13.35:715][701]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelOne
+[2019.11.10-10.13.35:721][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005947s)
+[2019.11.10-10.13.35:721][701]LogAIModule: Creating AISystem for world LevelOne
+[2019.11.10-10.13.35:721][701]LogPlayLevel: PIE: World Init took: (0.000737s)
+[2019.11.10-10.13.35:721][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelOne.LevelOne to /Game/Maps/UEDPIE_0_LevelOne.LevelOne (0.006807s)
+[2019.11.10-10.13.35:751][701]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.11.10-10.13.35:772][701]LogInit: XAudio2 using 'Acer XB241H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.10-10.13.35:777][701]LogInit: FAudioDevice initialized.
+[2019.11.10-10.13.35:789][701]LogLoad: Game class is 'GameplayGM_C'
+[2019.11.10-10.13.35:790][701]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.11.10-11.13.35
+[2019.11.10-10.13.35:790][701]LogWorld: Bringing up level for play took: 0.001213
+[2019.11.10-10.13.35:790][701]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.11.10-10.13.35:792][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.13.35:792][701]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelOne -0.371
+[2019.11.10-10.13.35:793][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.13.39:132][ 97]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_InputAction', from offset 0
+[2019.11.10-10.13.39:132][ 97]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Characters/Jax.Jax_C:InpActEvt_BeamWheel_K2Node_InputActionEvent_0
+
+[2019.11.10-10.13.39:135][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.10-10.14.08:755][ 97]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.14.08:755][ 97]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2019.11.10-10.14.08:755][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.14.08:755][ 97]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelOne
+[2019.11.10-10.14.08:755][ 97]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-10.14.08:764][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.10-10.14.08:764][ 97]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.14.08:796][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.14.08:798][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.11.10-10.14.08:814][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.11.10-10.14.08:816][ 98]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={B0ACCA4A-4E91-1455-E5FC-DCB127AFD9E5}
+[2019.11.10-10.14.08:816][ 98]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={F169D7D2-4A02-801B-21C8-79A8E419CD35}
+[2019.11.10-10.14.09:661][196]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.10-10.14.25:477][ 64]BlueprintLog: New page: Compile Jax
+[2019.11.10-10.14.25:658][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.11.10-10.14.26:380][145]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.10-10.14.26:399][145]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.14.26:399][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.10-10.14.26:399][145]PIE: New page: PIE session: LevelOne (Nov 10, 2019, 12:14:26 PM)
+[2019.11.10-10.14.26:399][145]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelOne
+[2019.11.10-10.14.26:405][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006146s)
+[2019.11.10-10.14.26:406][145]LogAIModule: Creating AISystem for world LevelOne
+[2019.11.10-10.14.26:406][145]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2019.11.10-10.14.26:406][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelOne.LevelOne to /Game/Maps/UEDPIE_0_LevelOne.LevelOne (0.006943s)
+[2019.11.10-10.14.26:437][145]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2019.11.10-10.14.26:456][145]LogInit: XAudio2 using 'Acer XB241H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.10-10.14.26:462][145]LogInit: FAudioDevice initialized.
+[2019.11.10-10.14.26:472][145]LogLoad: Game class is 'GameplayGM_C'
+[2019.11.10-10.14.26:473][145]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.11.10-11.14.26
+[2019.11.10-10.14.26:473][145]LogWorld: Bringing up level for play took: 0.001248
+[2019.11.10-10.14.26:473][145]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.11.10-10.14.26:475][145]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.14.26:475][145]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelOne 0.312
+[2019.11.10-10.14.26:476][145]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.14.28:950][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.10-10.14.29:000][403]LogSlate: Window 'Message Log' being destroyed
+[2019.11.10-10.14.29:003][403]LogSlate: Window 'Message Log' being destroyed
+[2019.11.10-10.14.30:394][570]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_InputAction', from offset 0
+[2019.11.10-10.14.30:394][570]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Characters/Jax.Jax_C:InpActEvt_BeamWheel_K2Node_InputActionEvent_0
+
+[2019.11.10-10.14.30:395][570]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.10-10.14.45:462][914]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Jax" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset" SILENT=true
+[2019.11.10-10.14.45:601][914]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/JaxF4149F7747AA713BE98BE9B74FE7C214.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset'
+[2019.11.10-10.14.47:986][196]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.14.47:986][196]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2019.11.10-10.14.47:987][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.14.47:987][196]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelOne
+[2019.11.10-10.14.47:987][196]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-10.14.47:991][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.10-10.14.47:991][196]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.14.48:026][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.14.48:029][196]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2019.11.10-10.14.48:091][202]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.11.10-10.14.58:718][352]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Beams/Beam_Magnet.Beam_Magnet
+[2019.11.10-10.15.02:251][741]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-10.15.02:289][741]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Beams/Beam_Magnet.Beam_Magnet
+[2019.11.10-10.15.35:632][611]LogRenderer: Reallocating scene render targets to support 1208x708 Format 10 NumSamples 1 (Frame:1).
+[2019.11.10-10.15.38:831][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Beams/Beam_Magnet" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset" SILENT=true
+[2019.11.10-10.15.38:871][993]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Beam_Magnet573EED4F48AD2BCAB3F70E814A2A0E03.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset'
+[2019.11.10-10.15.50:718][396]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Beams/Beam_Magnet" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset" SILENT=true
+[2019.11.10-10.15.50:752][396]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Beam_MagnetDDB267AD49E8EF5B98E78585FD5764C1.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset'
+[2019.11.10-10.15.51:118][438]BlueprintLog: New page: Compile Beam_Magnet
+[2019.11.10-10.15.51:308][438]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.11.10-10.15.58:191][256]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-10.16.00:392][510]LogSlate: Window 'Jax' being destroyed
+[2019.11.10-10.16.00:396][510]LogSlate: Window 'Jax' being destroyed
+[2019.11.10-10.16.00:402][510]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.10-10.16.00:402][510]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-10.16.01:531][639]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Beams/Beam_Magnet.Beam_Magnet
+[2019.11.10-10.16.43:264][573]BlueprintLog: New page: Compile Beam_Magnet
+[2019.11.10-10.16.43:453][573]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2019.11.10-10.16.43:774][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Beams/Beam_Magnet" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset" SILENT=true
+[2019.11.10-10.17.02:093][609]LogSlate: Window 'Message' being destroyed
+[2019.11.10-10.17.02:097][609]LogSavePackage: Warning: 
+Referencers of EdGraph /Game/Blueprints/Beams/Beam.Beam:EventGraph:
+[2019.11.10-10.17.02:163][609]LogSavePackage: Warning: 	Blueprint /Game/Blueprints/Beams/Beam.Beam (1 refs)
+[2019.11.10-10.17.02:163][609]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.Blueprint:UbergraphPages.UbergraphPages
+[2019.11.10-10.17.02:163][609]LogSavePackage: Warning: 	Breakpoint /Game/Blueprints/Beams/Beam_Magnet.Beam_Magnet:Breakpoint_2 (1 refs)
+[2019.11.10-10.17.02:163][609]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.Breakpoint:Node
+[2019.11.10-10.17.02:163][609]LogSavePackage: Warning: 
+Referencers of K2Node_Event /Game/Blueprints/Beams/Beam.Beam:EventGraph.K2Node_Event_0:
+[2019.11.10-10.17.02:227][609]LogSavePackage: Warning: 	EdGraph /Game/Blueprints/Beams/Beam.Beam:EventGraph (1 refs)
+[2019.11.10-10.17.02:227][609]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.EdGraph:Nodes.Nodes
+[2019.11.10-10.17.02:227][609]LogSavePackage: Warning: 	Breakpoint /Game/Blueprints/Beams/Beam_Magnet.Beam_Magnet:Breakpoint_2 (1 refs)
+[2019.11.10-10.17.02:227][609]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.Breakpoint:Node
+[2019.11.10-10.17.08:749][609]LogSlate: Window 'Message' being destroyed
+[2019.11.10-10.17.08:754][609]EditorErrors: New page: Save Output
+[2019.11.10-10.17.08:754][609]EditorErrors: Warning: Can't save D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset: Graph is linked to external private object K2Node_Event /Game/Blueprints/Beams/Beam.Beam:EventGraph.K2Node_Event_0 (Node)
+[2019.11.10-10.17.14:187][258]BlueprintLog: New page: Compile Beam_Magnet
+[2019.11.10-10.17.14:370][258]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.11.10-10.17.14:505][272]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Beams/Beam_Magnet" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset" SILENT=true
+[2019.11.10-10.17.20:236][272]LogSlate: Window 'Message' being destroyed
+[2019.11.10-10.17.20:239][272]LogSavePackage: Warning: 
+Referencers of EdGraph /Game/Blueprints/Beams/Beam.Beam:EventGraph:
+[2019.11.10-10.17.20:302][272]LogSavePackage: Warning: 	Blueprint /Game/Blueprints/Beams/Beam.Beam (1 refs)
+[2019.11.10-10.17.20:302][272]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.Blueprint:UbergraphPages.UbergraphPages
+[2019.11.10-10.17.20:302][272]LogSavePackage: Warning: 	Breakpoint /Game/Blueprints/Beams/Beam_Magnet.Beam_Magnet:Breakpoint_2 (1 refs)
+[2019.11.10-10.17.20:302][272]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.Breakpoint:Node
+[2019.11.10-10.17.20:302][272]LogSavePackage: Warning: 
+Referencers of K2Node_Event /Game/Blueprints/Beams/Beam.Beam:EventGraph.K2Node_Event_0:
+[2019.11.10-10.17.20:363][272]LogSavePackage: Warning: 	EdGraph /Game/Blueprints/Beams/Beam.Beam:EventGraph (1 refs)
+[2019.11.10-10.17.20:363][272]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.EdGraph:Nodes.Nodes
+[2019.11.10-10.17.20:363][272]LogSavePackage: Warning: 	Breakpoint /Game/Blueprints/Beams/Beam_Magnet.Beam_Magnet:Breakpoint_2 (1 refs)
+[2019.11.10-10.17.20:363][272]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.Breakpoint:Node
+[2019.11.10-10.17.21:448][272]LogSlate: Window 'Message' being destroyed
+[2019.11.10-10.17.21:454][272]EditorErrors: New page: Save Output
+[2019.11.10-10.17.21:454][272]EditorErrors: Warning: Can't save D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset: Graph is linked to external private object K2Node_Event /Game/Blueprints/Beams/Beam.Beam:EventGraph.K2Node_Event_0 (Node)
+[2019.11.10-10.17.22:211][272]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.11.10-10.17.22:919][356]LogSlate: Window 'Message Log' being destroyed
+[2019.11.10-10.17.22:923][356]LogSlate: Window 'Message Log' being destroyed
+[2019.11.10-10.17.25:012][607]BlueprintLog: New page: Compile Beam_Magnet
+[2019.11.10-10.17.25:153][607]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2019.11.10-10.17.25:345][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Beams/Beam_Magnet" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset" SILENT=true
+[2019.11.10-10.17.26:349][628]LogSlate: Window 'Message' being destroyed
+[2019.11.10-10.17.26:352][628]LogSavePackage: Warning: 
+Referencers of EdGraph /Game/Blueprints/Beams/Beam.Beam:EventGraph:
+[2019.11.10-10.17.26:414][628]LogSavePackage: Warning: 	Blueprint /Game/Blueprints/Beams/Beam.Beam (1 refs)
+[2019.11.10-10.17.26:414][628]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.Blueprint:UbergraphPages.UbergraphPages
+[2019.11.10-10.17.26:414][628]LogSavePackage: Warning: 	Breakpoint /Game/Blueprints/Beams/Beam_Magnet.Beam_Magnet:Breakpoint_2 (1 refs)
+[2019.11.10-10.17.26:414][628]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.Breakpoint:Node
+[2019.11.10-10.17.26:414][628]LogSavePackage: Warning: 
+Referencers of K2Node_Event /Game/Blueprints/Beams/Beam.Beam:EventGraph.K2Node_Event_0:
+[2019.11.10-10.17.26:476][628]LogSavePackage: Warning: 	EdGraph /Game/Blueprints/Beams/Beam.Beam:EventGraph (1 refs)
+[2019.11.10-10.17.26:476][628]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.EdGraph:Nodes.Nodes
+[2019.11.10-10.17.26:476][628]LogSavePackage: Warning: 	Breakpoint /Game/Blueprints/Beams/Beam_Magnet.Beam_Magnet:Breakpoint_2 (1 refs)
+[2019.11.10-10.17.26:476][628]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.Breakpoint:Node
+[2019.11.10-10.17.27:410][628]LogSlate: Window 'Message' being destroyed
+[2019.11.10-10.17.27:416][628]EditorErrors: New page: Save Output
+[2019.11.10-10.17.27:416][628]EditorErrors: Warning: Can't save D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset: Graph is linked to external private object K2Node_Event /Game/Blueprints/Beams/Beam.Beam:EventGraph.K2Node_Event_0 (Node)
+[2019.11.10-10.17.28:128][628]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.11.10-10.17.29:233][760]LogSlate: Window 'Message Log' being destroyed
+[2019.11.10-10.17.29:237][760]LogSlate: Window 'Message Log' being destroyed
+[2019.11.10-10.17.36:326][481]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Jax.Jax
+[2019.11.10-10.17.43:940][321]BlueprintLog: New page: Compile Jax
+[2019.11.10-10.17.44:100][321]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.11.10-10.17.44:353][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Jax" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset" SILENT=true
+[2019.11.10-10.17.44:492][343]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/JaxD0E201A54CCEF172DE67EC92713A3158.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset'
+[2019.11.10-10.17.49:902][967]BlueprintLog: New page: Compile Jax
+[2019.11.10-10.17.50:050][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.11.10-10.17.50:205][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Jax" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset" SILENT=true
+[2019.11.10-10.17.50:332][980]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/JaxF283DB054B2A77E64C6D7F9E6E88074C.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset'
+[2019.11.10-10.18.03:757][571]BlueprintLog: New page: Compile Beam_Magnet
+[2019.11.10-10.18.03:898][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.11.10-10.18.04:265][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Beams/Beam_Magnet" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset" SILENT=true
+[2019.11.10-10.18.30:516][613]LogSlate: Window 'Message' being destroyed
+[2019.11.10-10.18.32:291][613]LogSlate: Window 'Message' being destroyed
+[2019.11.10-10.18.32:297][613]EditorErrors: New page: Save Output
+[2019.11.10-10.18.32:297][613]EditorErrors: Warning: Can't save D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset: Graph is linked to external private object Unknown
+[2019.11.10-10.18.34:034][820]LogSlate: Window 'Message Log' being destroyed
+[2019.11.10-10.18.34:038][820]LogSlate: Window 'Message Log' being destroyed
+[2019.11.10-10.18.41:532][631]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.11.10-10.18.41:533][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/LevelOne" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Autosaves/Game/Maps/LevelOne_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.10-10.18.41:840][631]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/LevelOne_Auto1CB3E571D47DCF0AF1CD2BFB8B69F3BC6.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Autosaves/Game/Maps/LevelOne_Auto1.umap'
+[2019.11.10-10.18.41:845][631]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/LevelOne' took 0.341
+[2019.11.10-10.18.41:845][631]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.341
+[2019.11.10-10.18.41:846][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Beams/Beam] ([1] browsable assets)...
+[2019.11.10-10.18.41:846][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Beams/Beam]
+[2019.11.10-10.18.41:846][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Beams/Beam" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Autosaves/Game/Blueprints/Beams/Beam_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.10-10.18.41:942][631]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Beam_Auto15C8CC6DD41906A262D2B6A8D9A8E61B4.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Autosaves/Game/Blueprints/Beams/Beam_Auto1.uasset'
+[2019.11.10-10.18.41:945][631]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Beams/Beam_Magnet] ([1] browsable assets)...
+[2019.11.10-10.18.41:945][631]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Beams/Beam_Magnet]
+[2019.11.10-10.18.43:064][631]LogSlate: Window 'Message' being destroyed
+[2019.11.10-10.18.43:070][631]Warning: Can't save D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Autosaves/Game/Blueprints/Beams/Beam_Magnet_Auto1.uasset: Graph is linked to external private object Unknown
+[2019.11.10-10.18.52:831][521]BlueprintLog: New page: Compile Beam_Magnet
+[2019.11.10-10.18.52:970][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2019.11.10-10.18.53:085][533]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Beams/Beam_Magnet" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset" SILENT=true
+[2019.11.10-10.18.55:119][533]LogSlate: Window 'Message' being destroyed
+[2019.11.10-10.18.55:123][533]LogSavePackage: Warning: 
+Referencers of EdGraph /Game/Blueprints/Beams/Beam.Beam:EventGraph:
+[2019.11.10-10.18.55:187][533]LogSavePackage: Warning: 	Blueprint /Game/Blueprints/Beams/Beam.Beam (1 refs)
+[2019.11.10-10.18.55:187][533]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.Blueprint:UbergraphPages.UbergraphPages
+[2019.11.10-10.18.55:187][533]LogSavePackage: Warning: 	Breakpoint /Game/Blueprints/Beams/Beam_Magnet.Beam_Magnet:Breakpoint_2 (1 refs)
+[2019.11.10-10.18.55:187][533]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.Breakpoint:Node
+[2019.11.10-10.18.55:187][533]LogSavePackage: Warning: 
+Referencers of K2Node_Event /Game/Blueprints/Beams/Beam.Beam:EventGraph.K2Node_Event_0:
+[2019.11.10-10.18.55:250][533]LogSavePackage: Warning: 	EdGraph /Game/Blueprints/Beams/Beam.Beam:EventGraph (1 refs)
+[2019.11.10-10.18.55:250][533]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.EdGraph:Nodes.Nodes
+[2019.11.10-10.18.55:250][533]LogSavePackage: Warning: 	Breakpoint /Game/Blueprints/Beams/Beam_Magnet.Beam_Magnet:Breakpoint_2 (1 refs)
+[2019.11.10-10.18.55:250][533]LogSavePackage: Warning: 		0) ObjectProperty /Script/Engine.Breakpoint:Node
+[2019.11.10-10.18.56:012][533]LogSlate: Window 'Message' being destroyed
+[2019.11.10-10.18.56:017][533]EditorErrors: New page: Save Output
+[2019.11.10-10.18.56:018][533]EditorErrors: Warning: Can't save D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset: Graph is linked to external private object K2Node_Event /Game/Blueprints/Beams/Beam.Beam:EventGraph.K2Node_Event_0 (Node)
+[2019.11.10-10.18.56:950][533]LogSlate: Window 'Packages Failed To Save' being destroyed
+[2019.11.10-10.18.58:006][659]LogSlate: Window 'Message Log' being destroyed
+[2019.11.10-10.18.58:010][659]LogSlate: Window 'Message Log' being destroyed
+[2019.11.10-10.18.58:732][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Beams/Beam_Magnet" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset" SILENT=true
+[2019.11.10-10.19.04:012][745]LogSlate: Window 'Message' being destroyed
+[2019.11.10-10.19.05:758][745]LogSlate: Window 'Message' being destroyed
+[2019.11.10-10.19.05:763][745]EditorErrors: New page: Save Output
+[2019.11.10-10.19.05:763][745]EditorErrors: Warning: Can't save D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset: Graph is linked to external private object Unknown
+[2019.11.10-10.19.07:571][961]LogSlate: Window 'Message Log' being destroyed
+[2019.11.10-10.19.07:575][961]LogSlate: Window 'Message Log' being destroyed
+[2019.11.10-10.19.09:046][137]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-10.19.12:575][555]BlueprintLog: New page: Compile Jax
+[2019.11.10-10.19.12:723][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2019.11.10-10.19.12:872][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Jax" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset" SILENT=true
+[2019.11.10-10.19.12:995][567]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/JaxE7FB41DD4AB8E1B8D87BF2956D970A49.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset'
+[2019.11.10-10.19.13:634][642]LogSlate: Window 'Jax' being destroyed
+[2019.11.10-10.19.13:657][642]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.10-10.19.13:657][642]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-10.19.17:536][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Beams/Beam" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam.uasset" SILENT=true
+[2019.11.10-10.19.17:632][101]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Beam932CBB58447CABF0C77F96B566AB52D6.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam.uasset'
+[2019.11.10-10.19.18:282][177]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Beams/Beam.Beam
+[2019.11.10-10.19.30:167][375]LogSlate: Window 'Beam' being destroyed
+[2019.11.10-10.19.30:191][375]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-10.19.32:837][687]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Beams/Beam_Signal.Beam_Signal
+[2019.11.10-10.19.49:530][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Beams/Beam_Magnet" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset" SILENT=true
+[2019.11.10-10.19.50:587][658]LogSlate: Window 'Message' being destroyed
+[2019.11.10-10.19.51:781][658]LogSlate: Window 'Message' being destroyed
+[2019.11.10-10.19.51:786][658]EditorErrors: New page: Save Output
+[2019.11.10-10.19.51:786][658]EditorErrors: Warning: Can't save D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Beams/Beam_Magnet.uasset: Graph is linked to external private object Unknown
+[2019.11.10-10.19.53:241][832]LogSlate: Window 'Message Log' being destroyed
+[2019.11.10-10.19.53:245][832]LogSlate: Window 'Message Log' being destroyed
+[2019.11.10-10.19.54:132][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2019.11.10-10.19.55:141][935]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.10-10.19.55:206][935]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2019.11.10-10.19.55:233][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.11.10-10.19.55:258][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2019.11.10-10.19.57:001][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.11.10-10.19.57:883][141]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.10-10.19.57:955][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.11.10-10.19.57:984][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.11.10-10.19.58:008][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2019.11.10-10.20.05:141][955]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Characters/Jax.Jax
+[2019.11.10-10.20.20:313][719]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.10-10.20.25:187][298]BlueprintLog: New page: Compile Jax
+[2019.11.10-10.20.25:341][298]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2019.11.10-10.20.25:531][315]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Jax" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset" SILENT=true
+[2019.11.10-10.20.25:660][315]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/Jax08990009432FFFDCD7B92B94D6C7314E.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset'
+[2019.11.10-10.20.45:829][702]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.11.10-10.21.02:310][665]BlueprintLog: New page: Compile Jax
+[2019.11.10-10.21.02:466][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.11.10-10.21.02:911][712]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Jax" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset" SILENT=true
+[2019.11.10-10.21.03:048][712]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/JaxF17024EC441BBDDC81325697EF4D8AE0.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset'
+[2019.11.10-10.21.07:464][239]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.10-10.21.07:487][239]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.21.07:487][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.10-10.21.07:487][239]PIE: New page: PIE session: LevelOne (Nov 10, 2019, 12:21:07 PM)
+[2019.11.10-10.21.07:487][239]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelOne
+[2019.11.10-10.21.07:494][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007341s)
+[2019.11.10-10.21.07:495][239]LogAIModule: Creating AISystem for world LevelOne
+[2019.11.10-10.21.07:495][239]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2019.11.10-10.21.07:495][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelOne.LevelOne to /Game/Maps/UEDPIE_0_LevelOne.LevelOne (0.008184s)
+[2019.11.10-10.21.07:528][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.11.10-10.21.07:549][239]LogInit: XAudio2 using 'Acer XB241H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.10-10.21.07:555][239]LogInit: FAudioDevice initialized.
+[2019.11.10-10.21.07:565][239]LogLoad: Game class is 'GameplayGM_C'
+[2019.11.10-10.21.07:567][239]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.11.10-11.21.07
+[2019.11.10-10.21.07:567][239]LogWorld: Bringing up level for play took: 0.001284
+[2019.11.10-10.21.07:567][239]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2019.11.10-10.21.07:568][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.21.07:569][239]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelOne -0.594
+[2019.11.10-10.21.07:569][239]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.21.09:597][480]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_InputAction', from offset 0
+[2019.11.10-10.21.09:597][480]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Characters/Jax.Jax_C:InpActEvt_BeamWheel_K2Node_InputActionEvent_0
+
+[2019.11.10-10.21.09:598][480]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.10-10.21.20:888][537]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.21.20:889][537]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2019.11.10-10.21.20:889][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.21.20:889][537]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelOne
+[2019.11.10-10.21.20:889][537]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-10.21.20:897][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.10-10.21.20:897][537]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.21.20:925][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.21.20:928][537]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2019.11.10-10.21.20:991][543]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.11.10-10.21.31:536][807]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.10-10.21.31:557][807]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.21.31:557][807]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.11.10-10.21.31:562][807]LogPlayLevel: [PlayLevel] Compiling Jax before play...
+[2019.11.10-10.21.31:720][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.11.10-10.21.31:720][807]LogPlayLevel: PlayLevel: Blueprint regeneration took 163 ms (1 blueprints)
+[2019.11.10-10.21.31:720][807]PIE: New page: PIE session: LevelOne (Nov 10, 2019, 12:21:31 PM)
+[2019.11.10-10.21.31:720][807]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelOne
+[2019.11.10-10.21.31:727][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007371s)
+[2019.11.10-10.21.31:728][807]LogAIModule: Creating AISystem for world LevelOne
+[2019.11.10-10.21.31:728][807]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2019.11.10-10.21.31:728][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelOne.LevelOne to /Game/Maps/UEDPIE_0_LevelOne.LevelOne (0.008332s)
+[2019.11.10-10.21.31:755][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.11.10-10.21.31:775][807]LogInit: XAudio2 using 'Acer XB241H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.10-10.21.31:781][807]LogInit: FAudioDevice initialized.
+[2019.11.10-10.21.31:792][807]LogLoad: Game class is 'GameplayGM_C'
+[2019.11.10-10.21.31:793][807]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.11.10-11.21.31
+[2019.11.10-10.21.31:794][807]LogWorld: Bringing up level for play took: 0.001311
+[2019.11.10-10.21.31:794][807]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.11.10-10.21.31:795][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.21.31:796][807]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelOne -0.367
+[2019.11.10-10.21.31:796][807]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.21.33:184][969]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_InputAction', from offset 0
+[2019.11.10-10.21.33:184][969]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Characters/Jax.Jax_C:InpActEvt_BeamWheel_K2Node_InputActionEvent_0
+
+[2019.11.10-10.21.33:186][969]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.10-10.21.34:775][969]LogBlueprintDebug: Warning: Unknown breakpoint hit at node K2Node_Event in object Function /Game/Blueprints/Beams/Beam.Beam_C:ReceiveBeginPlay:0000
+[2019.11.10-10.21.34:775][969]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Beams/Beam.Beam
+[2019.11.10-10.21.38:405][169]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.21.38:405][169]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2019.11.10-10.21.38:405][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.21.38:405][169]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelOne
+[2019.11.10-10.21.38:405][169]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-10.21.38:418][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.10-10.21.38:418][169]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.21.38:451][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.21.38:454][169]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.11.10-10.21.38:515][171]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.11.10-10.21.39:285][263]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.10-10.22.09:913][818]BlueprintLog: New page: Compile Jax
+[2019.11.10-10.22.10:073][818]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.11.10-10.22.10:223][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Jax" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset" SILENT=true
+[2019.11.10-10.22.10:355][829]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/JaxCBC2938F4E96DBA9DC0C32B6E1E59E84.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset'
+[2019.11.10-10.22.11:625][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.10-10.22.24:843][561]BlueprintLog: New page: Compile Jax
+[2019.11.10-10.22.25:003][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.11.10-10.22.26:920][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Characters/Jax" FILE="D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset" SILENT=true
+[2019.11.10-10.22.27:052][783]LogSavePackage: Moving 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Saved/JaxE55C87C642A068D60B937880D81DC9C9.tmp' to 'D:/BTSGP/Semester3/MPROS3/GOPRO2/JaxAndLegger/Content/Blueprints/Characters/Jax.uasset'
+[2019.11.10-10.22.27:706][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.10-10.22.32:520][435]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.10-10.22.32:543][435]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.22.32:543][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.10-10.22.32:543][435]PIE: New page: PIE session: LevelOne (Nov 10, 2019, 12:22:32 PM)
+[2019.11.10-10.22.32:543][435]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelOne
+[2019.11.10-10.22.32:551][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007199s)
+[2019.11.10-10.22.32:551][435]LogAIModule: Creating AISystem for world LevelOne
+[2019.11.10-10.22.32:551][435]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2019.11.10-10.22.32:551][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelOne.LevelOne to /Game/Maps/UEDPIE_0_LevelOne.LevelOne (0.008000s)
+[2019.11.10-10.22.32:580][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.11.10-10.22.32:600][435]LogInit: XAudio2 using 'Acer XB241H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.10-10.22.32:606][435]LogInit: FAudioDevice initialized.
+[2019.11.10-10.22.32:615][435]LogLoad: Game class is 'GameplayGM_C'
+[2019.11.10-10.22.32:617][435]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.11.10-11.22.32
+[2019.11.10-10.22.32:617][435]LogWorld: Bringing up level for play took: 0.001299
+[2019.11.10-10.22.32:617][435]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.11.10-10.22.32:619][435]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.22.32:619][435]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelOne 0.456
+[2019.11.10-10.22.32:619][435]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.22.34:303][634]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_InputAction', from offset 0
+[2019.11.10-10.22.34:303][634]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Characters/Jax.Jax_C:InpActEvt_BeamWheel_K2Node_InputActionEvent_0
+
+[2019.11.10-10.22.34:308][634]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.10-10.22.35:990][634]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.22.35:990][634]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2019.11.10-10.22.35:990][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.22.35:990][634]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_LevelOne
+[2019.11.10-10.22.35:990][634]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2019.11.10-10.22.35:998][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.10-10.22.35:999][634]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.22.36:033][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.22.36:036][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2019.11.10-10.22.36:049][635]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.11.10-10.22.37:900][856]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.10-10.22.37:923][856]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.22.37:923][856]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.10-10.22.37:923][856]PIE: New page: PIE session: LevelOne (Nov 10, 2019, 12:22:37 PM)
+[2019.11.10-10.22.37:923][856]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_LevelOne
+[2019.11.10-10.22.37:930][856]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006514s)
+[2019.11.10-10.22.37:930][856]LogAIModule: Creating AISystem for world LevelOne
+[2019.11.10-10.22.37:930][856]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2019.11.10-10.22.37:930][856]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/LevelOne.LevelOne to /Game/Maps/UEDPIE_0_LevelOne.LevelOne (0.007341s)
+[2019.11.10-10.22.37:959][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.11.10-10.22.37:979][856]LogInit: XAudio2 using 'Acer XB241H (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.11.10-10.22.37:984][856]LogInit: FAudioDevice initialized.
+[2019.11.10-10.22.37:997][856]LogLoad: Game class is 'GameplayGM_C'
+[2019.11.10-10.22.37:998][856]LogWorld: Bringing World /Game/Maps/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2019.11.10-11.22.37
+[2019.11.10-10.22.37:999][856]LogWorld: Bringing up level for play took: 0.001353
+[2019.11.10-10.22.37:999][856]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.11.10-10.22.38:000][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.10-10.22.38:001][856]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_LevelOne -0.162
+[2019.11.10-10.22.38:001][856]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/LevelOne.LevelOne:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne' with GeneratedClass '/Game/Maps/LevelOne.LevelOne_C' with ClassGeneratedBy '/Game/Maps/LevelOne.LevelOne:PersistentLevel.LevelOne'
+[2019.11.10-10.22.38:782][948]LogBlueprintDebug: Warning: Unknown breakpoint hit at node K2Node_Event in object Function /Game/Blueprints/Beams/Beam.Beam_C:ReceiveBeginPlay:0000
+[2019.11.10-10.22.38:785][948]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.10-10.23.02:843][948]LogUObjectBase: Warning: Object is not registered
+[2019.11.10-10.23.02:844][948]LogOutputDevice: Warning: 
+
+Script Stack (4 frames):
+Beam_C.ExecuteUbergraph_Beam
+Beam_C.ReceiveBeginPlay
+Jax_C.ExecuteUbergraph_Jax
+Jax_C.InpActEvt_BeamWheel_K2Node_InputActionEvent_0
+
+[2019.11.10-10.23.03:156][948]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.313 s
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: === Handled ensure: ===
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: 
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: Stack: 
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa00905279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa00127fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa0013622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ff9feb16c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ff9fdac4dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ff9fda7e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa172bd644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa174ac533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1730922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa172e5738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa172d9a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa31594c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa315826df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa31597340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa3157edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa5f7963ed USER32.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa5f795de2 USER32.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa315987b9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1730675c UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1730537f UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa172b727e UE4Editor-Slate.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa0010e1bf UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa0013fe19 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa00556d2a UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1aa406a6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1aa4b4da UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1aa21e62 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1a9f163b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1aa21b73 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1aa21e62 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1aa217b4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1a7e84b8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1aa212b7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa17b0aa33 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa17ad4c38 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa17ae06b6 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa17b06e64 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa17aec6af UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa181d060f UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa17b37ca6 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1aa46299 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1aa48246 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1aa21e62 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1a9f163b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1aa21b73 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1aa21e62 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1aa217b4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1a7e84b8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1aa212b7 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa17b0aa33 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa18c8a5c0 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa18cb67c1 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa187e4f49 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa187f78dd UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa187e3244 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa187f6a61 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa17ae96f1 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa18b864d3 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa18b93757 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1ad94e4a UE4Editor-Core.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1ad951f3 UE4Editor-Core.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa1ada51f9 UE4Editor-Core.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa18bb2b50 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:156][948]LogOutputDevice: Error: [Callstack] 0x00007ffa18bb8a82 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:157][948]LogOutputDevice: Error: [Callstack] 0x00007ffa183ad6ef UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:157][948]LogOutputDevice: Error: [Callstack] 0x00007ffa183b8808 UE4Editor-Engine.dll!UnknownFunction []
+[2019.11.10-10.23.03:157][948]LogOutputDevice: Error: [Callstack] 0x00007ff9ffd4e00b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.10-10.23.03:157][948]LogOutputDevice: Error: [Callstack] 0x00007ffa005a5296 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.11.10-10.23.03:157][948]LogOutputDevice: Error: [Callstack] 0x00007ff76f767b0a UE4Editor.exe!UnknownFunction []
+[2019.11.10-10.23.03:157][948]LogOutputDevice: Error: [Callstack] 0x00007ff76f77a91c UE4Editor.exe!UnknownFunction []
+[2019.11.10-10.23.03:157][948]LogOutputDevice: Error: [Callstack] 0x00007ff76f77a9fa UE4Editor.exe!UnknownFunction []
+[2019.11.10-10.23.03:157][948]LogOutputDevice: Error: [Callstack] 0x00007ff76f78b92c UE4Editor.exe!UnknownFunction []
+[2019.11.10-10.23.03:157][948]LogOutputDevice: Error: [Callstack] 0x00007ff76f78e60e UE4Editor.exe!UnknownFunction []
+[2019.11.10-10.23.03:157][948]LogOutputDevice: Error: [Callstack] 0x00007ffa5e667bd4 KERNEL32.DLL!UnknownFunction []
+[2019.11.10-10.23.03:157][948]LogOutputDevice: Error: [Callstack] 0x00007ffa5f9cced1 ntdll.dll!UnknownFunction []
+[2019.11.10-10.23.03:157][948]LogOutputDevice: Error: 
+[2019.11.10-10.23.03:162][948]LogStats:                SubmitErrorReport -  0.000 s
